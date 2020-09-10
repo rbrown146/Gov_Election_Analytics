@@ -3,4 +3,4 @@
 
 ### Week of 9/6: Past Insights
 
-![](../images/2016_close.png)
+![](../Images/2016_close.png)
