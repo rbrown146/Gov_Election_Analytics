@@ -13,6 +13,8 @@ Even since 1980 candidates seem to be running closer races in most states; with 
 
 ![](./Images/PV_margin_2004.png)
 
+In this shorter timespan it still seems evident that many states are not solidly Republican or Democratic. Democratic strongholds in the Northeast and Rust Belt region appear to be increasingly less Democratic while Republican strength in the Southeast is diminishing. (There are exceptions, of course - New York, Kentucky, and West Virginia vote increasingly for a particular party within this time frame.) The Southwest and Texas look very much in flux.
+
 ![](./Images/PV_partisan_1980.png)
 
 ![](./Images/PV_partisan_2004.png)
