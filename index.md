@@ -15,7 +15,11 @@ Even since 1980 candidates seem to be running closer races in most states; with 
 
 In this shorter timespan it still seems evident that many states are not solidly Republican or Democratic. Democratic strongholds in the Northeast and Rust Belt region appear to be increasingly less Democratic while Republican strength in the Southeast is diminishing. (There are exceptions, of course - New York, Kentucky, and West Virginia vote increasingly for a particular party within this time frame.) The Southwest and Texas look very much in flux.
 
+Graphing the change in party vote share in each state since the previous election should give us greater insight into the exact political trends by region:
+
 ![](./Images/PV_partisan_1980.png)
+
+The country seems to have become more Democratic after the presidencies of Ronald Reagan and George W. Bush and more Republican during the presidency of Barack Obama. The pendulum metaphor of American politics seems to hold, although lately it has weakened:
 
 ![](./Images/PV_partisan_2004.png)
 
