@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Rick's Election Analytics Blog
 
 You can use the [editor on GitHub](https://github.com/rbrown146/Gov_Election_Analytics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
