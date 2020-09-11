@@ -9,7 +9,7 @@ Well, let's first look at a summary of each party's statewide margin of victory 
 
 ![](./Images/PV_margin_grid_1980.png)
 
-Even since 1980 candidates seem to be running closer races in most states; with the exception of Utah, Idaho, and Wyoming, most states seem to very widely in intensity from strongly Republican to more moderately so (or perhaps even Democratic). This trend bodes well for Biden. But given the many changes that have happened since 1980, like the downfall of the USSR and creation of Google, more relevant insights for the 2020 election will likely come from the past two decades.
+Even since 1980 candidates seem to be running closer races in most states; with the exception of Utah, Idaho, and Wyoming, most states seem to very widely in intensity from strongly Republican to more moderately so (or perhaps even Democratic). This trend away from Republicanism bodes well for Biden. But given the many changes that have happened since 1980, like the downfall of the USSR and creation of Google, more relevant insights for the 2020 election will likely come from the past two decades.
 
 ![](./Images/PV_margin_2004.png)
 
@@ -23,7 +23,9 @@ The country seems to have become more Democratic after the presidencies of Ronal
 
 ![](./Images/PV_partisan_2004.png)
 
-The country has trended more Republican in the past few elections with the exceptions of Arizona, California, Texas, and Georgia. Besides California all of these states have been considered swing states this election by at least some notable pundits. This should benefit Biden. Iowa seems to be going in the opposite direction, however, so trends are also eroding Democratic support in some states.
+The country has trended more Republican in the past few elections with the exceptions of Arizona, California, Texas, and Georgia. Besides California all of these states have been considered swing states this election by at least some notable pundits. Assuming that these states are becoming Democratic faster than traditionally Democratic states are becoming Republican (which looks true), this should benefit Biden. Iowa seems to be going in the opposite direction, however, so it seems a stretch to call it a swing state this cycle. Overall it looks like, at best, presidents can only weakly grow their support when running for reelection, and in many states they lose voteshare. This will not benefit Donald Trump.
+
+Just how many states have been competitive the past few cycles?
 
 ![](./Images/large_swing.png)
 
