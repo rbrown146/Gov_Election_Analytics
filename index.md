@@ -29,6 +29,6 @@ Just how many states have been competitive the past few cycles? The map below lo
 
 ![](./Images/large_swing.png)
 
-The trend seems to be going downward: from a peak of 12 in 2000 to a low of four in 2012, although the number since increased this past election.
+The trend seems to be going downward: from a peak of 12 in 2000 to a low of four in 2012, although the number since increased this past election. As America becomes more polarized the number of competitive states diminishes. This being the case, it does seem highly unusual that there are as many toss-up states this cycle as forecasted. But as for the states that are considered competitive, is this truly the case?
 
 ![](./Images/2016_close.png)
