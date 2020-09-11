@@ -25,8 +25,10 @@ The country seems to have become more Democratic after the presidencies of Ronal
 
 The country has trended more Republican in the past few elections with the exceptions of Arizona, California, Texas, and Georgia. Besides California all of these states have been considered swing states this election by at least some notable pundits. Assuming that these states are becoming Democratic faster than traditionally Democratic states are becoming Republican (which looks true), this should benefit Biden. Iowa seems to be going in the opposite direction, however, so it seems a stretch to call it a swing state this cycle. Overall it looks like, at best, presidents can only weakly grow their support when running for reelection, and in many states they lose voteshare. This will not benefit Donald Trump.
 
-Just how many states have been competitive the past few cycles?
+Just how many states have been competitive the past few cycles? The map below looks at states in which the two party voteshare for president was 5 points or less; it then colors states based on how much the voteshare changed from the previous election.
 
 ![](./Images/large_swing.png)
+
+The trend seems to be going downward: from a peak of 12 in 2000 to a low of four in 2012, although the number since increased this past election.
 
 ![](./Images/2016_close.png)
