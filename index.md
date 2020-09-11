@@ -23,6 +23,8 @@ The country seems to have become more Democratic after the presidencies of Ronal
 
 ![](./Images/PV_partisan_2004.png)
 
+The country has trended more Republican in the past few elections with the exceptions of Arizona, California, Texas, and Georgia. Besides California all of these states have been considered swing states this election by at least some notable pundits. This should benefit Biden. Iowa seems to be going in the opposite direction, however, so trends are also eroding Democratic support in some states.
+
 ![](./Images/large_swing.png)
 
 ![](./Images/2016_close.png)
