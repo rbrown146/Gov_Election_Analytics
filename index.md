@@ -1,5 +1,8 @@
 ## Predicting the 2020 Election (Rick Brown)
 
+### Week of 9/13: It's The Economy, Stupid
+
+It has long been said that the economy decides elections. Many authors
 
 ### Week of 9/6: Past Insights
 
