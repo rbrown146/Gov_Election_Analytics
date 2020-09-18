@@ -81,7 +81,16 @@ Plotting scatterplots between incumbent party voteshare and the stock market ope
 
 ![](./Images/stock_volume.png)
 
-There seem to be many datapoints clustered around x values close to the origin while a few outliers draw the regressions outward.
+There seem to be many datapoints clustered around x values close to the origin while a few outliers draw the regressions outward. The coefficients for both variables indicate this mediocre correlation:
+
+
+Inflation
+
+![](./Images/coeffs_stock_open.png) 
+
+Unemployment
+
+![](./Images/coeffs_stock_volume.png)
 
 ### Week of 9/6: Past Insights
 
