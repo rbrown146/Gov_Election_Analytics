@@ -2,7 +2,7 @@
 
 ### Week of 9/13: It's The Economy, Stupid
 
-It has long been said that the economy decides elections. Many authors
+It has long been said that the economy decides elections. [Many authors](https://hollis.harvard.edu/primo-explore/fulldisplay?docid=TN_cdi_askewsholts_vlebooks_9781400888740&context=PC&vid=HVD2&search_scope=everything&tab=everything&lang=en_US)
 
 ### Week of 9/6: Past Insights
 
