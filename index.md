@@ -81,7 +81,7 @@ Plotting scatterplots between incumbent party voteshare and the stock market ope
 
 ![](./Images/stock_volume.png)
 
-There seem to be many datapoints clustered around x values close to the origin while a few outliers draw the regressions outward. The coefficients for both variables indicate this mediocre correlation:
+There seem to be many datapoints clustered around x values close to the origin while a few outliers draw the regressions outward. The t values for the coefficients for both variables indicate this mediocre correlation:
 
 Stock Market Opening Value
 
