@@ -8,12 +8,9 @@ It has long been said that the economy decides elections. Political scientists h
 
 Plotting scatterplots between incumbent party voteshare (popular two party vote, or PV2P) and GDP and RDI respectively shows that a positive, moderately strong correlation exists:
 
-![](./Images/GDP.png)
+![](./Images/GDP.png) ![](./Images/RDI.png)
 
-
-![](./Images/RDI.png)
-
-The graph suggests that GDP is a slightly better predictor than RDI.
+The graphs suggest that GDP is a slightly better predictor than RDI.
 
 ### Week of 9/6: Past Insights
 
