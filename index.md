@@ -101,10 +101,11 @@ The Clinton voteshare predictions for both models are as follows:
 
 These predictions are further off than most of the other models. But let's see what they predict for 2020:
 
-**Stock Market Opening Model Trump Voteshare 2020** - %
+**Stock Market Opening Model Trump Voteshare 2020** - 48.33%
 
-**Stock Market Trades Model Trump Voteshare 2020** - %
+**Stock Market Trades Model Trump Voteshare 2020** - 48.18%
 
+These predictions are virtually identical as the ones yielded for Clinton in 2016. However, since 2016 there has been a tremendous increase in stock trading volume, but the coefficient in the stock trading model in so small that it does not affect the prediction. Meanwhile, at the time when the data was collected the stock market's opening value was close to what it was in 2016, so it is unsurprising that this prediction is nearly the same as it was in 2016. 
 
 ### Week of 9/6: Past Insights
 
