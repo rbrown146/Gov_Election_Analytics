@@ -46,6 +46,12 @@ Plotting scatterplots between incumbent party voteshare and the inflation and un
 
 ![](./Images/unemployment.png)
 
+Unsurprisingly, neither variable is a statistically significant measure of incumbent party voteshare. In fact, both seem to be noiser predictors than GDP and RDI:
+
+![](./Images/coeffs_inflation.png) 
+
+![](./Images/coeffs_unemployment.png)
+
 ### Week of 9/6: Past Insights
 
 Analyzing swing states has long been a hallmark American election forecasts, and 2020 looks to be no different. This time there is much buzz about a wider field of states being in play than ever before: staples like Iowa, Ohio, Florida, and New Hampshire are frequently mentioned, but this time so are more unusual choices like Arizona, Georgia, Michigan, Pennsylvania, Wisconsin, and Texas. Perhaps this is because of the chaos caused by the coronavirus epidemic, or perhaps due to the drama of the Trump administration. Regardless of why, are this many states actually in play for Joe Biden, and if so, is this as unusual as it's made out to be?
