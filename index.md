@@ -111,7 +111,7 @@ These predictions are virtually identical as the ones yielded for Clinton in 201
 
 While a number of economic variables can be used to predict the popular vote for an incumbent party, it seems that GDP and RDI are the most accurate (in normal circumstances). However, given the temporary distortions to the economy caused by the coronavirus epidemic, these variables do not seem like good predictors for this upcoming election. *Different* models are needed for these special times.
 
-Liked my data? Find my code [here]()
+Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/Blog%209-13)
 
 ### Week of 9/6: Past Insights
 
