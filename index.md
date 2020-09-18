@@ -10,11 +10,9 @@ Plotting scatterplots between incumbent party voteshare (popular two party vote,
 
 ![](./Images/GDP.png)
 
-GDP
 
 ![](./Images/RDI.png)
 
-RDI
 
 ### Week of 9/6: Past Insights
 
