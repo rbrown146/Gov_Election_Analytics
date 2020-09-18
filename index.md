@@ -48,7 +48,11 @@ Plotting scatterplots between incumbent party voteshare and the inflation and un
 
 Unsurprisingly, neither variable is a statistically significant measure of incumbent party voteshare. In fact, both seem to be noiser predictors than GDP and RDI:
 
+Inflation
+
 ![](./Images/coeffs_inflation.png) 
+
+Unemployment
 
 ![](./Images/coeffs_unemployment.png)
 
