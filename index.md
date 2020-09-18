@@ -56,7 +56,7 @@ Unemployment
 
 ![](./Images/coeffs_unemployment.png)
 
-Here is what the two models predict Clinton should have earned in 2016:
+Note the positive sign on the coefficient for unemployment. That implies that as unemployment increases then the incumbent party's voteshare increases, which is likely not true. Here is what the two models predict Clinton should have earned in 2016:
 
 **Actual Clinton Voteshare** - 51.16%
 
@@ -64,7 +64,16 @@ Here is what the two models predict Clinton should have earned in 2016:
 
 **Unemployment Model Clinton Voteshare** - 52.04%
 
-By this metric, unemployment seems to be about as accurate a predictor as GDP, while inflation is more precise than RDI.
+By this metric, unemployment seems to be about as accurate a predictor as GDP, while inflation is more precise than RDI. Now for 2020:
+
+
+**Inflation Model Trump Voteshare 2020** - 49.75%
+
+**Unemployment Model Trump Voteshare 2020** - 52.18%
+
+These predictions seem much more accurate than the ones yielded by GDP and RDI. But remember that our unemployment model has unemployment positively correlated with incumbent party voteshare while inflation has a large t value. So while these predictions might seem accurate, they should be viewed skeptically.
+
+#### Stock Market Opening Value and Number of Stock Trades
 
 ### Week of 9/6: Past Insights
 
