@@ -83,14 +83,28 @@ Plotting scatterplots between incumbent party voteshare and the stock market ope
 
 There seem to be many datapoints clustered around x values close to the origin while a few outliers draw the regressions outward. The coefficients for both variables indicate this mediocre correlation:
 
-
-Inflation
+Stock Market Opening Value
 
 ![](./Images/coeffs_stock_open.png) 
 
-Unemployment
+Number of Stock Trades
 
 ![](./Images/coeffs_stock_volume.png)
+
+The Clinton voteshare predictions for both models are as follows:
+
+**Actual Clinton Voteshare** - 51.16%
+
+**Stock Market Opening Model Clinton Voteshare** - 48.46%
+
+**Stock Market Trades Model Clinton Voteshare** - 48.92%
+
+These predictions are further off than most of the other models. But let's see what they predict for 2020:
+
+**Stock Market Opening Model Trump Voteshare 2020** - %
+
+**Stock Market Trades Model Trump Voteshare 2020** - %
+
 
 ### Week of 9/6: Past Insights
 
