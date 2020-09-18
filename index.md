@@ -77,9 +77,9 @@ These predictions seem much more accurate than the ones yielded by GDP and RDI. 
 
 Plotting scatterplots between incumbent party voteshare and the stock market opening values and the number of stock trades respectively shows that weak correlations exist here too:
 
-![](./Images/inflation.png) 
+![](./Images/stock_open.png) 
 
-![](./Images/unemployment.png)
+![](./Images/stock_volume.png)
 
 There seem to be many datapoints clustered around x values close to the origin while a few outliers draw the regressions outward.
 
