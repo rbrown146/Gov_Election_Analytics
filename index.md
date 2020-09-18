@@ -75,6 +75,14 @@ These predictions seem much more accurate than the ones yielded by GDP and RDI. 
 
 #### Stock Market Opening Value and Number of Stock Trades
 
+Plotting scatterplots between incumbent party voteshare and the stock market opening values and the number of stock trades respectively shows that weak correlations exist here too:
+
+![](./Images/inflation.png) 
+
+![](./Images/unemployment.png)
+
+There seem to be many datapoints clustered around x values close to the origin while a few outliers draw the regressions outward.
+
 ### Week of 9/6: Past Insights
 
 Analyzing swing states has long been a hallmark American election forecasts, and 2020 looks to be no different. This time there is much buzz about a wider field of states being in play than ever before: staples like Iowa, Ohio, Florida, and New Hampshire are frequently mentioned, but this time so are more unusual choices like Arizona, Georgia, Michigan, Pennsylvania, Wisconsin, and Texas. Perhaps this is because of the chaos caused by the coronavirus epidemic, or perhaps due to the drama of the Trump administration. Regardless of why, are this many states actually in play for Joe Biden, and if so, is this as unusual as it's made out to be?
