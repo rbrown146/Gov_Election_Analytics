@@ -25,12 +25,15 @@ RDI
 Leaving out data for the 2016 election, we can test the accuracy of the models for GDP and RDI respectively by predicting what share of the popular vote Clinton should earn as compared to what she actually earned. Our predictions are the following:
 
 Actual Clinton Voteshare - 51.16%
+
 GDP Model Clinton Voteshare - 50.31%
+
 RDI Model Clinton Voteshare - 47.97%
 
 Here, too, it seems like GDP is a better predictor than RDI. But what do the two models predict Trump's voteshare will be in 2020?
 
 GDP Model Trump Voteshare 2020 - 21.26%
+
 RDI Model Trump Voteshare 2020 - 80.33%
 
 Neither of these predictions seems realistic. All of the polls seem to show Trump neck-in-neck with Biden. So why are the models off by so much? GDP declined tremendously in the second quarter of 2020 due to COVID shutdowns while RDI increased as a result of stimulus checks and increased unemployment benefits. Since both were temporary changes caused by a pandemic, I doubt that either prediction will come close to accurately describing this year's election.
