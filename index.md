@@ -40,6 +40,12 @@ Neither of these predictions seems realistic. All of the polls seem to show Trum
 
 #### Inflation and Unemployment
 
+Plotting scatterplots between incumbent party voteshare and the inflation and unemployment rates respectively shows that weak correlations exist:
+
+![](./Images/inflation.png) 
+
+![](./Images/unemployment.png)
+
 ### Week of 9/6: Past Insights
 
 Analyzing swing states has long been a hallmark American election forecasts, and 2020 looks to be no different. This time there is much buzz about a wider field of states being in play than ever before: staples like Iowa, Ohio, Florida, and New Hampshire are frequently mentioned, but this time so are more unusual choices like Arizona, Georgia, Michigan, Pennsylvania, Wisconsin, and Texas. Perhaps this is because of the chaos caused by the coronavirus epidemic, or perhaps due to the drama of the Trump administration. Regardless of why, are this many states actually in play for Joe Biden, and if so, is this as unusual as it's made out to be?
