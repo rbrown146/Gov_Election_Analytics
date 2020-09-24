@@ -25,8 +25,14 @@ How does this compare to states outside the Midwest? Let's look at Florida:
 
 Florida's polls were only off by about 2 points in 2016, an amount comparable to the error from 2012 and much smaller than in 2004 (~4 pts) though larger than in 2008 (~1 pt). Of course, as a perennial swing state, Florida might be better polled than most states. But it is encouraging to see that Michigan's polls weren't much further off than polls in Florida.
 
+Next, let's look at Missouri, another Midwestern state but one that hasn't been competitive since 2008. (But a state for which there is still much polling data):
 
 ![](./Images/missouri_state.png)
+
+Polls for 2016 are noticeably off compared to other years. It looks like the difference between the predicted and actual outcome is 7 points! Prior to 2016 the polls were most off in the year 1996 by about 3 points. Michigan was definitely better polled in 2016 than Missouri, and even Wisconsin's polling looks better in comparison. While results for Missouri are probably off due to underpolling, it is worth noting that the state had competitive races for Senate and governor in 2016 – consequently, we would expect pollsters to devote considerable amounts of resources to surveying Missourians that year. 
+
+Finally, let's look at some correlation statistics for each state. The table below shows R-squared values for the relationship between state polling data and the national popular vote (column 2) and state popular vote (column 3). To measure the noteworthiness of 2016 results, an R-squared value is calculated for each state with and without results from 2016:
+
 ![](./Images/poll_table.png)
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/Polling.R)
