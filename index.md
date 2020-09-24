@@ -5,15 +5,21 @@
 #### Comparing Polls
 
 #### Analyzing 2016 Polls
-After Donald Trump won the presidential election in 2016, the American public was shocked. The polls
+After Donald Trump won the presidential election in 2016, the American public was shocked. The polls had led most people to expect a Clinton victory, yet that was not so. Many faulted pollsters for overlooking the Rust Belt region when forming their predictions. But just how far off were the polls in these states compared to previous elections, and was there reason to criticize most election forecasts?
+
+Let's first take a look at Wisconsin. Using past polling data gathered within a week out from prior elections we can plot the average polling result from the eventual winner in comparison to actual voting data for that election:
 
 ![](./Images/wisconsin_state.png)
+
+Compared to the week-out polls, Trump received about 5 points more support than expected. This polling error is certainly larger than that of 2012 (~3 pts off) and 2008 (~2 pts off). But compared to the 1984 election (~7 pts off) and 1988 election (~5 pts off), the error doesn't seem unreasonable. Of course, since the 80s technology has improved, and we would expect polling data to improve along with it. It isn't clear, then, how we should interpret this result.
+
+Perhaps taking a look at Michigan will help somewhat: 
 ![](./Images/michigan_state.png)
 ![](./Images/florida_state.png)
 ![](./Images/missouri_state.png)
 ![](./Images/poll_table.png)
 
-Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/Blog%209-13)
+Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/Polling.R)
 
 ### Week of 9/13: It's The Economy, Stupid
 
