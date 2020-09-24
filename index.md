@@ -11,11 +11,18 @@ Let's first take a look at Wisconsin. Using past polling data gathered within a 
 
 ![](./Images/wisconsin_state.png)
 
-Compared to the week-out polls, Trump received about 5 points more support than expected. This polling error is certainly larger than that of 2012 (~3 pts off) and 2008 (~2 pts off). But compared to the 1984 election (~7 pts off) and 1988 election (~5 pts off), the error doesn't seem unreasonable. Of course, since the 80s technology has improved, and we would expect polling data to improve along with it. It isn't clear, then, how we should interpret this result.
+Compared to the week-out polls, Trump received about 5 points more support than expected. The polls were certainly off by more than in 2012 (~3 pts off) and 2008 (~2 pts off). But compared to the 1984 election (~7 pts off) and 1988 election (~5 pts off), the error doesn't seem unreasonable. Of course, since the 80s technology has improved, and we would expect polling data to improve along with it. It isn't clear, then, how we should interpret this result.
 
 Perhaps taking a look at Michigan will help somewhat: 
+
 ![](./Images/michigan_state.png)
+
+Michigan seems to be better polled than Wisconsin. The polls for 2016 were only off by about 3 points. This is an improvement from 2012 (~5 pts off), and 2008 (~4 pts off). Polling from 1988 appears to be off by about 5 points.
+
+How does this compare to states outside the Midwest? Let's look at Florida:
+
 ![](./Images/florida_state.png)
+
 ![](./Images/missouri_state.png)
 ![](./Images/poll_table.png)
 
