@@ -23,6 +23,9 @@ How does this compare to states outside the Midwest? Let's look at Florida:
 
 ![](./Images/florida_state.png)
 
+Florida's polls were only off by about 2 points in 2016, an amount comparable to the error from 2012 and much smaller than in 2004 (~4 pts) though larger than in 2008 (~1 pt). Of course, as a perennial swing state, Florida might be better polled than most states. But it is encouraging to see that Michigan's polls weren't much further off than polls in Florida.
+
+
 ![](./Images/missouri_state.png)
 ![](./Images/poll_table.png)
 
