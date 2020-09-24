@@ -1,5 +1,17 @@
 ## Predicting the 2020 Election (Rick Brown)
 
+### Week of 9/20: Polling
+
+#### Comparing Polls
+
+#### Analyzing 2016 Polls
+
+![](./Images/wisconsin_state.png)
+![](./Images/michigan_state.png)
+![](./Images/florida_state.png)
+![](./Images/missouri_state.png)
+![](./Images/poll_table.png)
+
 ### Week of 9/13: It's The Economy, Stupid
 
 It has long been said that the economy decides elections. Political scientists have argued that [there is a noticeable correlation](https://hollis.harvard.edu/primo-explore/fulldisplay?docid=TN_cdi_askewsholts_vlebooks_9781400888740&context=PC&vid=HVD2&search_scope=everything&tab=everything&lang=en_US) between an incumbent party's vote share and economic measures like GDP, RDI, and the inflation rate. Is this truly the case? In this blog post I use presidential election data since 1948 to show that while there is some correlation between RDI/GDP and an incumbent party's vote share, other measures like the inflation rate, unemployment rate, and stock market performance are much weaker measures.
