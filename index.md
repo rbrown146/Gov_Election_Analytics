@@ -5,6 +5,7 @@
 #### Comparing Polls
 
 #### Analyzing 2016 Polls
+After Donald Trump won the presidential election in 2016, the American public was shocked. The polls
 
 ![](./Images/wisconsin_state.png)
 ![](./Images/michigan_state.png)
