@@ -35,6 +35,10 @@ Finally, let's look at some correlation statistics for each state. The table bel
 
 ![](./Images/poll_table.png)
 
+Removing results for 2016 doesn't change state polling/vote R-squared values for Michigan and Florida! Results from 2016 weaken R-squared values for state polling/vote in Wisconsin by 0.03 and in Missouri by 0.05.
+
+So what should we conclude about state polling in 2016? While the polls certainly were off in some key states, they don't appear to be too far off in comparison to state polls for other recent presidential elections. Of the states examined, polling was best in Florida and Michigan. Polling in both Wisconsin and Missouri noticeably differed from prior elections, enough to affect R-squared values. Whether it warrents shaming pollsters is debateable, however. Regardless, one can imagine that these states will be substantially better polled in this upcoming election as compared to the 2016 one.  
+
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/Polling.R)
 
 ### Week of 9/13: It's The Economy, Stupid
