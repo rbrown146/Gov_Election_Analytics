@@ -3,6 +3,8 @@
 ### Week of 9/20: Polling
 
 #### Comparing Polls
+How should one design a poll to best predict an election? Of course there is no one answer to this, so it is interesting to examine the approaches taken by various top pollsters. In this post I'll examine two such models: one by [FiveThirtyEight](https://fivethirtyeight.com/features/how-fivethirtyeights-2020-presidential-forecast-works-and-whats-different-because-of-covid-19/) and the other by [The Economist](https://projects.economist.com/us-2020-forecast/president/how-this-works).
+
 
 #### Analyzing 2016 Polls
 After Donald Trump won the presidential election in 2016, the American public was shocked. The polls had led most people to expect a Clinton victory, yet that was not so. Many faulted pollsters for overlooking the Rust Belt region when forming their predictions. But just how far off were the polls in these states compared to previous elections, and was there reason to criticize most election forecasts?
