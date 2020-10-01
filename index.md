@@ -6,6 +6,8 @@ This election cycle there is an incumbent running for reelection. What does this
 
 #### Why 2020 Could be Different
 
+It's a well observed fact that incumbent candidates are reelected at extraordinary rates. (Think of how many presidents over the past 70 years failed to win reelection.) However, there is more than meets the eye to this trend - it turns out that voters have no preference for [incumbent candidates.](https://hollis.harvard.edu/primo-explore/fulldisplay?docid=TN_cdi_proquest_journals_1680832786&context=PC&vid=HVD2&search_scope=everything&tab=everything&lang=en_US) Rather, it seems that sitting presidents are able to direct spending to pivotal districts, thereby using the power of their office to [boost support.](https://hollis.harvard.edu/primo-explore/fulldisplay?docid=TN_cdi_proquest_journals_1018073231&context=PC&vid=HVD2&search_scope=everything&tab=everything&lang=en_US)
+
 #### Playing with Models
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/04-Incumbent.R)
