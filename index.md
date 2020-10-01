@@ -18,6 +18,13 @@ Interestingly, not all incumbents are treated the same. At the presidential leve
 
 The model works by looking at polls taken no more than 20 weeks out from the election, and it combines this information with unemployment data taken in April during the year of the election to make its predictions. (Why April? Political scientists have shown that, to the extent that voters look at economic data at all, they scrutinize data from towards the beginning of election year when judging an incumbent party's [performance.](https://hollis.harvard.edu/primo-explore/fulldisplay?docid=TN_cdi_askewsholts_vlebooks_9781400888740&context=PC&vid=HVD2&search_scope=everything&tab=everything&lang=en_US)) Using election and polling data from as far back as 1976, the model is then trained on some previous years' data while some data (40% of available data) is held in reserve for testing. The model is then applied to the testing data and the entire dataset to see how accurately it can predict the outcome of past elections. Once that is determined, the model is applied to current 2020 polling data to predict whether Trump or Biden will win a given state.
 
+For each state I model two different scenarios: when an incumbent incandidate is running for reelection, and when an incumbent party is running a new candidate for election
+
+**North Carolina**
+
+
+**Iowa**
+
 ![](./Images/states.png)
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/04-Incumbent.R)
