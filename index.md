@@ -1,5 +1,15 @@
 ## Predicting the 2020 Election (Rick Brown)
 
+### Week of 9/27: Incumbency
+
+This election cycle there is an incumbent running for reelection. What does this mean for President Trump, and should we expect 2020 to differ from previous years?
+
+####
+
+####
+
+Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/Polling.R)
+
 ### Week of 9/20: Polling
 
 #### Comparing Polls
