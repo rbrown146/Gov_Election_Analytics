@@ -8,7 +8,7 @@ This election cycle there is an incumbent running for reelection. What does this
 
 ####
 
-Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/Polling.R)
+Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/04-Incumbent.R)
 
 ### Week of 9/20: Polling
 
