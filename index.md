@@ -24,13 +24,19 @@ For each state I model two different scenarios: when an incumbent incandidate is
 
 
 ![](./Images/NC.png)
+
+
 For 2020, the **complex model** predicts **Biden 50%, Trump 46%.** The **simple model** predicts **Biden 50%, Trump 48%**
+
+
+
 
 
 **Iowa**
 
 
 ![](./Images/IA.png)
+
 
 For 2020, the **simple model** predicts **Biden 37%, Trump 55%**. The **complex model** predicts **Biden 37%, Trump 50%**.
 
