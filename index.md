@@ -21,17 +21,22 @@ The model works by looking at polls taken no more than 20 weeks out from the ele
 For each state I model two different scenarios: when an incumbent incandidate is running for reelection (which I call the "complex model"), and when an incumbent party is running a new candidate for election (which I call the "simple model"). Results are shown below:
 
 **North Carolina**
+
+
 ![](./Images/NC.png)
 For 2020, the **complex model** predicts **Biden 50%, Trump 46%.** The **simple model** predicts **Biden 50%, Trump 48%**
 
 
 **Iowa**
+
+
 ![](./Images/IA.png)
 
 For 2020, the **simple model** predicts **Biden 37%, Trump 55%**. The **complex model** predicts **Biden 37%, Trump 50%**.
 
 
 Are these models correct? Likely not. Even though the models perform well on the test data, polls for each election are likely correlated with each other. Additionally, the models would likely be more accurate if they took into account demographic factors for each state and if there was more training data. If the models happen to be correct, however, then expect to see Iowa stay red and North Carolina turn blue in 2020. 
+
 
 ![](./Images/states.png)
 
