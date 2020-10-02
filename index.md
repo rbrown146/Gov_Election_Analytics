@@ -25,12 +25,16 @@ In the simulations, the **simple model** is correct **56%** of the time when use
 The **complex model** is correct **59%** of the time when used on the **test data** and **64%** of the time when used on **all of the data.**
 For 2020, the **complex model** predicts **Biden 50%, Trump 46%.** The **simple model** predicts **Biden 50%, Trump 48%**
 
+![](./Images/NC.png)
+
 **Iowa**
 In the simulations, the complex model is correct 76% of the time when part of the data is used and correct 78% when all is used.
 
 The simple model is correct 72% of the time when part of the data is used and 76% when all of the data is used
 
 The simple model predicts Biden 37%, Trump 55%. The complex model predicts Biden 37%, Trump 50%
+
+![](./Images/IA.png)
 
 ![](./Images/states.png)
 
