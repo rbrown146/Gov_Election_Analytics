@@ -25,14 +25,14 @@ For each state I model two different scenarios: when an incumbent incandidate is
 For 2020, the **complex model** predicts **Biden 50%, Trump 46%.** The **simple model** predicts **Biden 50%, Trump 48%**
 
 
-
 **Iowa**
 ![](./Images/IA.png)
 
 For 2020, the **simple model** predicts **Biden 37%, Trump 55%**. The **complex model** predicts **Biden 37%, Trump 50%**.
 
 
-Are these models correct? Likely not. Even though the models perform well on the test data, polls for each election are likely correlated with each other. Additionally, the prediction would be more accurate 
+Are these models correct? Likely not. Even though the models perform well on the test data, polls for each election are likely correlated with each other. Additionally, the models would likely be more accurate if they took into account demographic factors for each state and if there was more training data. If the models happen to be correct, however, then expect to see Iowa stay red and North Carolina turn blue in 2020. 
+
 ![](./Images/states.png)
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/04-Incumbent.R)
