@@ -12,8 +12,11 @@ First, let's look at results from **Nevada**
 This Sun Belt state has become more Democratic in recent years, and the histogram supports this trend. It looks like Biden is projected to receive a mean of 549,000 votes while Trump is projected to receive 469,500. If both candidates received this many votes then the two-party voteshare would be **Biden 53.9%, Trump 46.1%** out of 1,018,500 votes cast. Based on a Google search of Nevada's population, this suggests a voter turnout of 1/3 of all Nevadans. (Not all are eligible voters, though.)
 
 Next up is **Wisconsin**
+
 ![](./Images/hist_Wisconsin_Biden.jpg)
 ![](./Images/hist_Wisconsin_Trump.jpg)
+
+It looks like Biden is projected to receive a mean of 1,562,000 votes and Trump 1,429,000 votes. Such an election outcome would yield a two-party voteshare result of **Biden 52.2%, Trump 47.8%** out of 2,991,000 votes cast. If this outcome occurred then it would be nearly a flip of the 2016 election. This result would be closer than the model's projections for Nevada, which makes sense given that Nevada voted for the Democratic candidate in 2016 while Wisconsin did not.
 
 ![](./Images/hist_Ohio_Biden.jpg)
 ![](./Images/hist_Ohio_Trump.jpg)
