@@ -1,5 +1,19 @@
 ## Predicting the 2020 Election (Rick Brown)
 
+### Week of 10/4: Histogram Simulations
+
+![](./Images/hist_New Hampshire_Biden.png)
+![](./Images/hist_New Hampshire_Trump.png)
+
+![](./Images/hist_Texas_Biden.png)
+![](./Images/hist_Texas_Trump.png)
+
+![](./Images/hist_Wisconsin_Biden.png)
+![](./Images/hist_Wisconsin_Trump.png)
+
+![](./Images/hist_Pennsylvania_Biden.png)
+![](./Images/hist_Pennsylvania_Trump.png)
+
 ### Week of 9/27: Incumbency
 
 This election cycle there is an incumbent running for reelection. What does this mean for President Trump, and should we expect 2020 to differ from previous years?
