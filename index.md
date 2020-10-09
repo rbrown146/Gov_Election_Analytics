@@ -2,6 +2,8 @@
 
 ### Week of 10/4: Histogram Simulations
 
+This week's blog post models possible outcomes of the 2020 election in key swing states.
+
 ![](./Images/hist_Nevada_Biden.jpg)
 ![](./Images/hist_Nevada_Trump.jpg)
 
@@ -11,8 +13,8 @@
 ![](./Images/hist_Wisconsin_Biden.jpg)
 ![](./Images/hist_Wisconsin_Trump.jpg)
 
-![](./Images/hist_Pennsylvania_Biden.jpg)
-![](./Images/hist_Pennsylvania_Trump.jpg)
+![](./Images/hist_Ohio_Biden.jpg)
+![](./Images/hist_Ohio_Trump.jpg)
 
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/2020histograms.R)
