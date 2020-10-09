@@ -4,17 +4,23 @@
 
 This week's blog post models possible outcomes of the 2020 election in key swing states. To generate these histograms, I first made a binomial model relating past election outcomes to pre-election polling data. Specifically, my dependent variables were the share of Democratic/Republican voters in a given election as a fraction of eligible voters. I then fed in the latest polling averages for each party's candidate in each state as well as the size of the 2016 voting eligible population in that state. I repeated this process 10,000 times for each party's candidate and finally generate histograms of the results. The result shows a spread of how many votes Biden and Trump are projected to receive based on current polling averages and past voter turnout for each party.
 
+First, let's look at results from **Nevada**
+
 ![](./Images/hist_Nevada_Biden.jpg)
 ![](./Images/hist_Nevada_Trump.jpg)
 
-![](./Images/hist_Texas_Biden.jpg)
-![](./Images/hist_Texas_Trump.jpg)
+This Sun Belt state has become more Democratic in recent years, and the histogram supports this trend. It looks like Biden is projected to receive a mean of 549,000 votes while Trump is projected to receive 469,500. If both candidates received this many votes then the two-party voteshare would be **Biden 53.9%, Trump 46.1%** out of 1,018,500 votes cast. Based on a Google search of Nevada's population, this suggests a voter turnout of 1/3 of all Nevadans. (Not all are eligible voters, though.)
 
+Next up is **Wisconsin**
 ![](./Images/hist_Wisconsin_Biden.jpg)
 ![](./Images/hist_Wisconsin_Trump.jpg)
 
 ![](./Images/hist_Ohio_Biden.jpg)
 ![](./Images/hist_Ohio_Trump.jpg)
+
+
+![](./Images/hist_Texas_Biden.jpg)
+![](./Images/hist_Texas_Trump.jpg)
 
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/2020histograms.R)
