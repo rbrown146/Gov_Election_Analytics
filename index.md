@@ -25,9 +25,14 @@ Fellow Midwestern state **Ohio** is next
 
 Always a swing state, last cycle Ohio was notable for swinging further to the right than it has in recent memory. This model suggests that Ohio will continue its GOP voting streak this election: Trump is projected to receive a mean of 2,822,000 votes and Biden 2,724,000. This would put the two-party voteshare at **Biden 49.1%, Trump 50.9%** out of 5,546,000 votes cast. 
 
+Finally, let's look at **Texas**
+
 ![](./Images/hist_Texas_Biden.jpg)
 ![](./Images/hist_Texas_Trump.jpg)
 
+The results are surprising. The model projects a mean of 5,515,000 votes for Biden and 4,844,000 votes for Trump. That would result in a two-party voteshare of **Biden 53.2%, Trump 46.8%**. If this were true then Biden would have a larger victory in Texas than he would in Wisconsin. Given the conservative history and close polling of Texas, however, this outcome seems highly unlikely. Even if the outcome fell on the left tail of the Democratic simulated voteshare, Biden would still be projected to win. Therefore, it seems likely that there is some flaw in the model.
+
+The results found in this blog post should give Biden supporters reason to be optimistic, assuming the model's projections hold true. Given the crazy events of 2020, perhaps a Democratic Texas isn't that implausible after all.
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/2020histograms.R)
 
