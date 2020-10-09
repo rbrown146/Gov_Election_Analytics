@@ -2,8 +2,8 @@
 
 ### Week of 10/4: Histogram Simulations
 
-![](./Images/hist_New Hampshire_Biden.jpg)
-![](./Images/hist_New Hampshire_Trump.jpg)
+![](./Images/hist_Nevada_Biden.jpg)
+![](./Images/hist_Nevada_Trump.jpg)
 
 ![](./Images/hist_Texas_Biden.jpg)
 ![](./Images/hist_Texas_Trump.jpg)
@@ -13,6 +13,10 @@
 
 ![](./Images/hist_Pennsylvania_Biden.jpg)
 ![](./Images/hist_Pennsylvania_Trump.jpg)
+
+
+Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/2020histograms.R)
+
 
 ### Week of 9/27: Incumbency
 
