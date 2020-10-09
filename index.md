@@ -18,9 +18,12 @@ Next up is **Wisconsin**
 
 It looks like Biden is projected to receive a mean of 1,562,000 votes and Trump 1,429,000 votes. Such an election outcome would yield a two-party voteshare result of **Biden 52.2%, Trump 47.8%** out of 2,991,000 votes cast. If this outcome occurred then it would be nearly a flip of the 2016 election. This result would be closer than the model's projections for Nevada, which makes sense given that Nevada voted for the Democratic candidate in 2016 while Wisconsin did not.
 
+Fellow Midwestern state **Ohio** is next
+
 ![](./Images/hist_Ohio_Biden.jpg)
 ![](./Images/hist_Ohio_Trump.jpg)
 
+Always a swing state, last cycle Ohio was notable for swinging further to the right than it has in recent memory. This model suggests that Ohio will continue its GOP voting streak this election: Trump is projected to receive a mean of 2,822,000 votes and Biden 2,724,000. This would put the two-party voteshare at **Biden 49.1%, Trump 50.9%** out of 5,546,000 votes cast. 
 
 ![](./Images/hist_Texas_Biden.jpg)
 ![](./Images/hist_Texas_Trump.jpg)
