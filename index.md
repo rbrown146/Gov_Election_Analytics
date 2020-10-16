@@ -3,17 +3,17 @@
 
 ### Week of 10/11: Demographics
 
-![](./10_16/two_color_plain.jpg)
+![](./10_16/two_color_plain.png)
 
-![](./10_16/Two_color_f.jpg)
+![](./10_16/Two_color_f.png)
 
-![](./10_16/multi_color_f.jpg)
+![](./10_16/multi_color_f.png)
 
-![](./10_16/two_color_white.jpg)
+![](./10_16/two_color_white.png)
 
-![](./10_16/two_color_multi.jpg)
+![](./10_16/two_color_multi.png)
 
-Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/10_11/)
+Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/10_16/)
 
 ### Week of 10/4: Histogram Simulations
 
