@@ -3,14 +3,22 @@
 
 ### Week of 10/11: Demographics
 
+**Plain map (last week's data):**
+
 ![](./10_16/two_color_plain.png)
 
+
+**Adding in share of female residents:**
 ![](./10_16/Two_color_f.png)
+
 
 ![](./10_16/multi_color_f.png)
 
+**Adding in share of white residents:**
+
 ![](./10_16/two_color_white.png)
 
+**Leaving out share of white residents, adding in shares of various minority groups:**
 ![](./10_16/two_color_multi.png)
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/10_16/)
