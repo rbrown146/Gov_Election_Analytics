@@ -1,5 +1,20 @@
 ## Predicting the 2020 Election (Rick Brown)
 
+
+### Week of 10/11: Demographics
+
+![](./10_16/two_color_plain.jpg)
+
+![](./10_16/Two_color_f.jpg)
+
+![](./10_16/multi_color_f.jpg)
+
+![](./10_16/two_color_white.jpg)
+
+![](./10_16/two_color_multi.jpg)
+
+Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/10_11/)
+
 ### Week of 10/4: Histogram Simulations
 
 This week's blog post models possible outcomes of the 2020 election in key swing states. To generate these histograms, I first made a binomial model relating past election outcomes to pre-election polling data. Specifically, my dependent variables were the share of Democratic/Republican voters in a given election as a fraction of eligible voters. I then fed in the latest polling averages for each party's candidate in each state as well as the size of the 2016 voting eligible population in that state. I repeated this process 10,000 times for each party's candidate and finally generate histograms of the results. The result shows a spread of how many votes Biden and Trump are projected to receive based on current polling averages and past voter turnout for each party.
