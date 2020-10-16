@@ -9,6 +9,7 @@
 
 
 **Adding in share of female residents:**
+
 ![](./10_16/Two_color_f.png)
 
 
