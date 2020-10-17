@@ -42,7 +42,9 @@ This map looks strangest of all. It adds in the share of each state's population
 
 ![](./10_16/hist_Montana_Biden.jpg)
 
-Assuming that each candidate received the median number of votes indicated by each histogram, Trump would receive 122,000 votes and Biden 426,000. That would yield a two-party voteshare of **Trump 22.3%, Biden 77.7%**, making Montana _the most Democratic state_ in the nation in 2020. That seems extremely unrealistic, although I do believe that on a good election night Biden could pick up Montana and Texas.
+Assuming that each candidate received the median number of votes indicated by each histogram, Trump would receive 122,000 votes and Biden 426,000. That would yield a two-party voteshare of **Trump 22.3%, Biden 77.7%**, making Montana _the most Democratic state in the nation_ in 2020. That seems extremely unrealistic, although I do believe that on a good election night Biden could pick up Montana and Texas.
+
+Overall I am fascinated by these models, but I definitely think that they could be refined with weights. I'm also surprised that in none of these predictions does Arizona vote for Biden. I think Biden will win there this election. We'll just have to wait until election night to see what actually happens!
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/10_16/)
 
