@@ -4,7 +4,9 @@
 ### Week of 10/11: Demographics
 Last week's histograms were quite interesting (a blue Texas!) but didn't seem like realistic predictions to me. This week I increased the accuracy of my model and tried again. I started out with the same binomial model that related pre-election polling data to the share of Democratic/Republican voters as a share of total voters in each election. I then inputted 2016 data on the number of eligible voters in each state and 2020 polling data. Unlike last time, this time when I was simulating 10,000 different election outcomes I allowed for some variance in the probability of each candidate winning (I added in standard deviation to my model and used a normal distribution to select win probability). Finally, for each candidate I took the mean of the number of expected votes for him in each election simulation. I then produced a map indicating which candidate would win the election assuming the mean vote values corresponded to the result on election day.
 
-Once I produced a map using this more refined model, I adjusted my map by adding in various demographic variables (e.g. the fraction of a state's population that is female) to see how that would affect my outcomes. Adding in these demographic variables yields some wild predictions that are likely inaccurate.
+Once I produced a map using this more refined model, I adjusted my map by adding in various demographic variables (e.g. the fraction of a state's population that is female) to see how that would affect my outcomes. Adding in these demographic variables yields some wild predictions that are likely inaccurate. 
+
+Ten states had no polling data for this election, so in the maps below they appear without color. And now, without further ado, I present my results:
 
 **Plain map (last week's data):**
 
