@@ -22,6 +22,10 @@
 **Leaving out share of white residents, adding in shares of various minority groups:**
 ![](./10_16/two_color_multi.png)
 
+![](./10_16/hist_Montana_Trump.jpg)
+
+![](./10_16/hist_Montana_Biden.jpg)
+
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/10_16/)
 
 ### Week of 10/4: Histogram Simulations
