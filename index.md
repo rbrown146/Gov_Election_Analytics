@@ -26,6 +26,8 @@
 
 ![](./10_16/hist_Montana_Biden.jpg)
 
+Assuming that each candidate received the median number of votes indicated by each histogram, Trump would receive 122,000 votes and Biden 426,000. That would yield a two-party voteshare of **Trump 22.3%, Biden 77.7%**, making Montana the most Democratic state in the nation in 2020.
+
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/blob/gh-pages/10_16/)
 
 ### Week of 10/4: Histogram Simulations
