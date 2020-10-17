@@ -18,6 +18,7 @@ This map looks like most pundits' forecasts of the election. Biden wins Michigan
 
 ![](./10_16/Two_color_f.png)
 
+The model doesn't change its prediction much once it accounts for the share of each state's population that is female. Using this data, Idaho votes for Biden and Ohio for Trump. Ohio voting for Trump seems plausible to me, but I doubt Biden has a serious chance at winning Idaho. In general women tend to vote for Democrats at greater rates than men, so perhaps the model is capturing an increase in the share of Idaho's population that is female.
 
 ![](./10_16/multi_color_f.png)
 
