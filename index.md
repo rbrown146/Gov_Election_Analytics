@@ -12,7 +12,7 @@ Ten states had no polling data for this election, so in the maps below they appe
 
 ![](./10_16/two_color_plain.png)
 
-This map looks like most pundits' forecasts of the election. Biden wins Michigan, Pennsylvania, and Wisconsin, the three pivotal states that gave Trump the presidency last election. But it's interesting that Biden loses Arizona. Most polls seem to have Biden ahead there, and polling also suggests that it's a given that the Democrats will win the Senate race in Arizona. I'm surprised that Biden loses Arizona but wins North Carolina, Florida, and Ohio, three states that are all polling for Biden but seem to be trending more in Trump's direction. It's worth noting that my model only uses polling data from June to September 2020, so perhaps this explains its unusual prediction.
+This map looks like most pundits' forecasts of the election. Biden wins Michigan, Pennsylvania, and Wisconsin, the three pivotal states that gave Trump the presidency last election. But it's interesting that Biden loses Arizona. Most polls seem to have Biden ahead there, and polling also suggests that it's a given that the Democrats will win the Senate race in Arizona. I'm surprised that Biden loses Arizona but wins North Carolina, Florida, and Ohio, three states that are all polling for Biden but seem to be trending more in Trump's direction. It's worth noting that my model only uses polling data from June to September 2020, so perhaps this explains its prediction.
 
 **Adding in share of female residents:**
 
@@ -20,7 +20,11 @@ This map looks like most pundits' forecasts of the election. Biden wins Michigan
 
 The model doesn't change its prediction much once it accounts for the share of each state's population that is female. Using this data, Idaho votes for Biden and Ohio for Trump. Ohio voting for Trump seems plausible to me, but I doubt Biden has a serious chance at winning Idaho. In general women tend to vote for Democrats at greater rates than men, so perhaps the model is capturing an increase in the share of Idaho's population that is female.
 
+Across the United States as a whole results are fairly close for each candidate, as evidenced by this voting density map:
+
 ![](./10_16/multi_color_f.png)
+
+Idaho appears to be about the same shade of blue as Nevada, a state that is fairly competitive in elections. Given Idaho's population boom, the growth of its tech industry, and the tendency for western states to trend towards the Democrats over time, I wouldn't be surprised if Idaho eventually becomes as competitive as Nevada, but that likely will happen in the distant future.
 
 **Adding in share of white residents:**
 
