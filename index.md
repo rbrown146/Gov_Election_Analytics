@@ -30,6 +30,8 @@ Idaho appears to be about the same shade of blue as Nevada, a state that is fair
 
 ![](./10_16/two_color_white.png)
 
+Building upon the previous model, adding the share of white residents produces strange results. Idaho no longer votes for Biden, but suddenly neither do Florida, Pennsylvania, and Maine. All three of these states gave votes to Trump last election, so perhaps this model is onto something. White voters do tend to vote Republican more than voters of other races. But Alabama and Mississippi vote for Biden, which doesn't seem likely to me. The Democrats ran a competitive candidate for governor in Mississippi yet lost the election, and in Alabama the Democratic candidate for senator only narrowly beat out a truly repulsive Republican one (Roy Moore). I like this model overall, but I think that weighting the share of white voters might produce better results. 
+
 **Leaving out share of white residents, adding in shares of various minority groups:**
 ![](./10_16/two_color_multi.png)
 
