@@ -41,6 +41,8 @@ Covid Data - **Biden 49.86%, Trump 50.14%**.
 
 Covid Data + 2016 results – **Biden 49.98%, Trump 50.02%**
 
+These changes are fairly small, and such is the case in other states as well (in North Carolina Biden does 0.6% better in the Covid Data + 2016 results model vs the plain Covid Data model, but in Ohio he does worse by 0.09%). So perhaps changes in the share of Covid cases in each state will have an effect on the outcome of the election, but likely the changes won't be substantial between now and election day.
+
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/)
 
 ### Week of 10/11: Demographics
