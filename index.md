@@ -34,7 +34,12 @@ Only one state changes - Georgia. Now Georgia votes for Trump. This is in line w
 This map looks identical to the one yielded by the covid model wihout 2016 data. Perhaps, then, covid cases as a fraction of the state's population is not a good predictor of the election outcome - this data seems to get drowned out by other variables in the data. To test this, I looked at the predicted election outcome for each candidate yieled by each model:
 
 These figures are for Georgia.
-Polls only -  **Biden 50.06%, Trump 49.94%**. Covid Data - **Biden 49.86%, Trump 50.14%**. Covid Data + 2016 results – **Biden 49.98%, Trump 50.02%**
+
+Polls only -  **Biden 50.06%, Trump 49.94%**. 
+
+Covid Data - **Biden 49.86%, Trump 50.14%**. 
+
+Covid Data + 2016 results – **Biden 49.98%, Trump 50.02%**
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/)
 
