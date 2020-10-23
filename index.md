@@ -3,9 +3,13 @@
 ### Week of 10/18: Covid
 This election has had many shocks compared with previous elections: protests, a president who doesn't pay much tax, the death of a Supreme Court justice weeks before the elction, and, of course, Covid. How will Covid affect the election? I decided to make a model to find out. But first, here are some maps showing the extent of Covid's spread through the United States:
 
+Between July 1 and October 21 Covid has spread greatly through the USA
+
 ![](./Images/july1_cases.jpg)
 
 ![](./Images/oct21_cases.jpg)
+
+It looks like the virus has made inroads into the central part of the country and is doing best there. Deaths have also increased, although by not nearly as much as cases have (perhaps due to the uptick in mask wearing and social distancing)
 
 ![](./Images/july1_deaths.jpg)
 
