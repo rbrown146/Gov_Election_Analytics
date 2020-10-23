@@ -15,6 +15,17 @@ It looks like the virus has made inroads into the central part of the country an
 
 ![](./Images/oct21_deaths.jpg)
 
+And now for my model!
+
+**Model**
+I used the same base model to predict the outcome of the election. This time, however, I used data on the share of Covid cases as a share of each state's population on September 1 and I used that to predict the polling average for the election in that state. I then fed in Covid data from Oct. 21 to see what the model would predict for the election outcome. Again I simulate 10,000 different election outcomes and include standard deviation in my model. I take the mean prediction for each candidate to predict the election winner. The following map shows my result:
+
+![](./Images/covid_no_2016.jpg)
+
+This map looks a lot like most pundits' forecasts at the time. After pondering my model for a while, I realized that it didn't include proper controls. Although at first Coronavirus cases were concentrated mostly on the coasts, more recently Covid has spread fastest in more Republican leaning states, perhaps because people in these states are more likely to emulate the president and go without wearing masks. Since this model looks at changes in covid cases to predict polling, it might actually be modeling concentrations of GOP voters rather than Coronavirus cases since the two go hand-in-hand. I decided to create a new model, this time including 2016 election results to act as a control. I reason that voters in states have more-or-less similar political affiliations as they did four years ago. Obviously there have been demographic changes since then and other factors (e.g. the economy) have changed since then, but I use this model mostly for comparison:
+
+![](./Images/covid_2016.jpg)
+
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/)
 
 ### Week of 10/11: Demographics
