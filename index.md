@@ -3,7 +3,13 @@
 ### Week of 10/18: Covid
 This election has had many shocks compared with previous elections: protests, a president who doesn't pay much tax, the death of a Supreme Court justice weeks before the elction, and, of course, Covid. How will Covid affect the election? I decided to make a model to find out. But first, here are some maps showing the extent of Covid's spread through the United States:
 
-![](./10_16/hist_Montana_Trump.jpg)
+![](./10_16/july1_cases.jpg)
+
+![](./10_16/oct21_cases.jpg)
+
+![](./10_16/july1_deaths.jpg)
+
+![](./10_16/oct21_deaths.jpg)
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/)
 
