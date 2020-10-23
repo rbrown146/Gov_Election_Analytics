@@ -26,6 +26,10 @@ This map looks a lot like most pundits' forecasts at the time. After pondering m
 
 ![](./Images/covid_2016.jpg)
 
+Only one state changes - Georgia. Now Georgia votes for Trump. This is in line with what happened in 2016, but I wonder now whether the model is leaning mostly on the 2016 election result rather than the coronavirus data when making its prediction. So I created a map of which candidate would win each state if the polls up to September accurately modeled the election outcome:
+
+![](./Images/polls_no_covid.jpg)
+
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/)
 
 ### Week of 10/11: Demographics
