@@ -78,21 +78,30 @@ Finally, here are some interesting state level statistics. In my model, Gore win
 
 In actuality, [it seems](https://en.wikipedia.org/wiki/2000_United_States_presidential_election) that Bush carried Florida by 0.0092%, Arizona by 6.29%, and Georgia by 11.69%. Gore won New Mexico by 0.061%, Michigan by 5.13%, Oregon by 0.44%, and Hawaii by 18.33%. I've specifically highlighted these states to show the inaccuracy of the model, but it's worth noting that not all states were off by this much.
 
+Lastly, let's see how the model performs in-sample.
+
 #### 2016 Prediction (In-sample Validition)
 ![](./Final/2016_map.png)
 
-Wrong states: New Hampshire (Clinton actually won) and Pennsylvania (Trump actually won). The model also doesn't account for ME-02 going to Trump
+The model does a better job at predicting state winners in this election. The only states that are off are New Hampshire (Clinton actually won) and Pennsylvania (Trump actually won). The model also doesn't account for ME-02 going to Trump.
 
-Electoral College vote: Clinton 244, Trump 287
-National Popular Vote: Clinton 52.00%, Trump 48.00%
-Clinton CI: (64,324,375 - 65,068,005)
-Trump CI: (59,564,256 - 59,858,909)
+Here are some statistics:
+
+**Electoral College vote:** Clinton 244, Trump 287
+
+**National Popular Vote:** Clinton 52.00%, Trump 48.00%
+
+**Clinton CI:** (64,324,375 - 65,068,005)
+
+**Trump CI:** (59,564,256 - 59,858,909)
+
+And here are the[actual results](https://www.270towin.com/2016_Election/)
+
+**Electoral College Vote:** Clinton 227, Trump 304
+
+**National Popular Vote (Two Party Vote):** Clinton 51.11%, Trump 48.89%
 
 In the model Trump wins NH by 2.34% and Clinton wins PA by 5.23%. Trump wins Michigan by 1.82% and Clinton wins Minnesota by 9.00%.
-
-[Actual results](https://www.270towin.com/2016_Election/)
-Electoral College Vote: Clinton 304, Trump 227
-National Popular Vote (Two Party Vote): Clinton 51.11%, Trump 48.89%
 
 [State results](https://en.wikipedia.org/wiki/2016_United_States_presidential_election) vary, in some cases greatly, from the values indicated by the model. Trump won Michigan by 0.23% and Pennsylvania by 0.72% while Clinton won New Hampshire by 0.37% and Minnesota by 1.52% 
 
