@@ -55,6 +55,8 @@ In the model Trump wins NH by 2.34% and Clinton wins PA by 5.23%. Trump wins Mic
 Electoral College Vote: Clinton 304, Trump 227
 National Popular Vote (Two Party Vote): Clinton 51.11%, Trump 48.89%
 
+[State results](https://en.wikipedia.org/wiki/2016_United_States_presidential_election) vary, in some cases greatly, from the values indicated by the model. Trump won Michigan by 0.23% and Pennsylvania by 0.72% while Clinton won New Hampshire by 0.37% and Minnesota by 1.52% 
+
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/Final)
 
 ### Week of 10/18: Covid
