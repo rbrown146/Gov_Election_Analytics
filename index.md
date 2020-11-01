@@ -64,9 +64,8 @@ Here are some election statistics from this hypothetical 2000 election outcome:
 
 **Bush CI:** (51,988,389 - 52,246,215)
 
-In comparison, here are statistics on the actual election outcome:
 
-[Actual results](https://www.270towin.com/2000_Election/)
+In comparison, here are statistics on the [actual results](https://www.270towin.com/2000_Election/)
 
 **Electoral College Vote:** Gore 266, Bush 271
 
@@ -95,15 +94,20 @@ Here are some statistics:
 
 **Trump CI:** (59,564,256 - 59,858,909)
 
-And here are the[actual results](https://www.270towin.com/2016_Election/)
+
+And here are the [actual results](https://www.270towin.com/2016_Election/)
 
 **Electoral College Vote:** Clinton 227, Trump 304
 
 **National Popular Vote (Two Party Vote):** Clinton 51.11%, Trump 48.89%
 
-In the model Trump wins NH by 2.34% and Clinton wins PA by 5.23%. Trump wins Michigan by 1.82% and Clinton wins Minnesota by 9.00%.
+Here, too, the model correctly predicts that Clinton wins the popular vote and loses the electoral college. Additionally, the few states that the model incorrectly predicts aren't too far off from actuality: in the model Trump wins NH by 2.34% and Clinton wins PA by 5.23%. Trump wins Michigan by 1.82% and Clinton wins Minnesota by 9.00%.
 
-[State results](https://en.wikipedia.org/wiki/2016_United_States_presidential_election) vary, in some cases greatly, from the values indicated by the model. Trump won Michigan by 0.23% and Pennsylvania by 0.72% while Clinton won New Hampshire by 0.37% and Minnesota by 1.52% 
+[State results](https://en.wikipedia.org/wiki/2016_United_States_presidential_election) show that Trump won Michigan by 0.23% and Pennsylvania by 0.72% while Clinton won New Hampshire by 0.37% and Minnesota by 1.52%. The model's prediction for Minnesota seems off, but it does a good job predicting the other states.
+
+####
+
+Narrow CI, conservative on Rust Belt
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/Final)
 
