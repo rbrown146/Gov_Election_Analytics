@@ -18,8 +18,8 @@ Wrong states: Oregon probably will go for Biden. I predict that NE-02 will go fo
 
 Electoral College Vote: Biden 343, Trump 195
 National Popular Vote: Biden 52.36%, Trump 47.64%
-Biden CI: (67,419,363 - 68,165,470)
-Trump CI: (61,524,412 - 61,819,073)
+Biden CI: (67,418,974 - 68,163,003)
+Trump CI: (61,523,836 - 61,819,065)
 
 #### 2000 Prediction (Out-of-Sample Validition)
 ![](./Final/2000_map.png)
@@ -28,8 +28,8 @@ Wrong states: Arizona, Florida (Bush actually won); New Mexico, Wisconsin, Michi
 
 Electoral College Vote: Gore 239, Bush 298
 National Popular Vote: Gore 50.70%, Bush 49.30%
-Gore CI: (53,279,361 - 53,913,357)
-Bush CI: (51,988,214 - 52,246,513)
+Gore CI: (53,278,740 - 53,913,560)
+Bush CI: (51,988,389 - 52,246,215)
 
 Gore wins Arizona by 4.60%, Florida by 6.90%, Oregon by 11.33%, and Hawaii by 3.21%; Bush wins Michigan by 4.3%, New Mexico by 25.332%, and Georgia by 3.32%
 
@@ -46,8 +46,8 @@ Wrong states: New Hampshire (Clinton actually won) and Pennsylvania (Trump actua
 
 Electoral College vote: Clinton 244, Trump 287
 National Popular Vote: Clinton 52.00%, Trump 48.00%
-Clinton CI: (64,324,188 - 65,067,859)
-Trump CI: (59,564,190 - 59,859,196)
+Clinton CI: (64,324,375 - 65,068,005)
+Trump CI: (59,564,256 - 59,858,909)
 
 In the model Trump wins NH by 2.34% and Clinton wins PA by 5.23%. Trump wins Michigan by 1.82% and Clinton wins Minnesota by 9.00%.
 
