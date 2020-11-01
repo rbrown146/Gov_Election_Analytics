@@ -67,14 +67,16 @@ Here are some election statistics from this hypothetical 2000 election outcome:
 In comparison, here are statistics on the actual election outcome:
 
 [Actual results](https://www.270towin.com/2000_Election/)
+
 **Electoral College Vote:** Gore 266, Bush 271
+
 **National Popular Vote (Two Party Vote):** Gore 50.27%, Bush 49.73%
 
 In both the model and in actuality, Gore wins the popular vote and loses the electoral college. So on the single most important metric of any election forecast - picking the winner - this model passes.
 
-Finally, here are some state level statistics. In my model, Gore wins Arizona by 4.60%, Florida by 6.90%, Oregon by 11.33%, and Hawaii by 3.21%; Bush wins Michigan by 4.3%, New Mexico by 25.332%, and Georgia by 3.32%.
+Finally, here are some interesting state level statistics. In my model, Gore wins Arizona by 4.60%, Florida by 6.90%, Oregon by 11.33%, and Hawaii by 3.21%; Bush wins Michigan by 4.3%, New Mexico by 25.332%, and Georgia by 3.32%.
 
-In actuality, [it seems](https://en.wikipedia.org/wiki/2000_United_States_presidential_election) that Bush carried Florida by 0.0092%, Arizona by 6.29%, and Georgia by 11.69%. Gore won New Mexico by 0.061%, Michigan by 5.13%, Oregon by 0.44%, and Hawaii by 18.33% .
+In actuality, [it seems](https://en.wikipedia.org/wiki/2000_United_States_presidential_election) that Bush carried Florida by 0.0092%, Arizona by 6.29%, and Georgia by 11.69%. Gore won New Mexico by 0.061%, Michigan by 5.13%, Oregon by 0.44%, and Hawaii by 18.33%. I've specifically highlighted these states to show the inaccuracy of the model, but it's worth noting that not all states were off by this much.
 
 #### 2016 Prediction (In-sample Validition)
 ![](./Final/2016_map.png)
