@@ -16,6 +16,7 @@
 
 Wrong states: Oregon probably will go for Biden. I predict that NE-02 will go for Biden, and ME-02 for Trump (not in model). Additionally, I think Iowa will go to Biden, and in a shocker, so will Texas.
 
+Electoral College Vote: Biden 343, Trump 195
 National Popular Vote: Biden 52.36%, Trump 47.64%
 Biden CI: (67,419,363 - 68,165,470)
 Trump CI: (61,524,412 - 61,819,073)
@@ -25,10 +26,14 @@ Trump CI: (61,524,412 - 61,819,073)
 
 Wrong states: Arizona, Florida (Bush actually won); New Mexico, Wisconsin, Michigan, Pennsylvania, Delaware (Gore won), 
 
+Electoral College Vote: 
 National Popular Vote: Gore 50.70%, Bush 49.30%
 Gore CI: (53,279,361 - 53,913,357)
 Bush CI: (51,988,214 - 52,246,513)
 
+Actual results
+Electoral College Vote:
+National Popular Vote (Two Party Vote):
 
 #### 2016 Prediction (In-sample Validition)
 ![](./Final/2016_map.png)
@@ -38,6 +43,10 @@ Wrong states: New Hampshire (Clinton actually won) and Pennsylvania (Trump actua
 National Popular vote: Clinton 52.00%, Trump 48.00%
 Clinton CI: (64,324,188 - 65,067,859)
 Trump CI: (59,564,190 - 59,859,196)
+
+[Actual results](https://www.270towin.com/2016_Election/)
+Electoral College Vote: Clinton 304, Trump 227
+National Popular Vote (Two Party Vote): Clinton 51.11%, Trump 48.89%
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/Final)
 
