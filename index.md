@@ -38,9 +38,10 @@ National Popular Vote (Two Party Vote): Gore 50.27%, Bush 49.73%
 #### 2016 Prediction (In-sample Validition)
 ![](./Final/2016_map.png)
 
-Wrong states: New Hampshire (Clinton actually won) and Pennsylvania (Trump actually won)
+Wrong states: New Hampshire (Clinton actually won) and Pennsylvania (Trump actually won). The model also doesn't account for ME-02 going to Trump
 
-National Popular vote: Clinton 52.00%, Trump 48.00%
+Electoral College vote: Clinton 244, Trump 287
+National Popular Vote: Clinton 52.00%, Trump 48.00%
 Clinton CI: (64,324,188 - 65,067,859)
 Trump CI: (59,564,190 - 59,859,196)
 
