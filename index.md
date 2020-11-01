@@ -26,7 +26,7 @@ Trump CI: (61,524,412 - 61,819,073)
 
 Wrong states: Arizona, Florida (Bush actually won); New Mexico, Wisconsin, Michigan, Pennsylvania, Delaware (Gore won), 
 
-Electoral College Vote: 
+Electoral College Vote: Gore 239, Bush 298
 National Popular Vote: Gore 50.70%, Bush 49.30%
 Gore CI: (53,279,361 - 53,913,357)
 Bush CI: (51,988,214 - 52,246,513)
