@@ -3,6 +3,14 @@
 
 ### Week of 10/22: Final Election Prediction
 
+#### Model Formula
+
+#### Model Coefficients & Interpretation
+
+#### Model Description
+
+#### Uncertainty (Interval)
+
 ![](./Final/2020_map.png)
 ![](./Final/2000_map.png)
 ![](./Final/2016_map.png)
