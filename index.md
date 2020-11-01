@@ -31,6 +31,8 @@ National Popular Vote: Gore 50.70%, Bush 49.30%
 Gore CI: (53,279,361 - 53,913,357)
 Bush CI: (51,988,214 - 52,246,513)
 
+Gore wins Arizona by 4.60%, Florida by 6.90%, Oregon by 11.33%, and Hawaii by 3.21%; Bush wins Michigan by 4.3%, New Mexico by 25.332%, and Georgia by 3.32%
+
 [Actual results](https://www.270towin.com/2000_Election/)
 Electoral College Vote: Gore 266, Bush 271
 National Popular Vote (Two Party Vote): Gore 50.27%, Bush 49.73%
@@ -44,6 +46,8 @@ Electoral College vote: Clinton 244, Trump 287
 National Popular Vote: Clinton 52.00%, Trump 48.00%
 Clinton CI: (64,324,188 - 65,067,859)
 Trump CI: (59,564,190 - 59,859,196)
+
+In the model Trump wins NH by 2.34% and Clinton wins PA by 5.23%. Trump wins Michigan by 1.82% and Clinton wins Minnesota by 9.00%.
 
 [Actual results](https://www.270towin.com/2016_Election/)
 Electoral College Vote: Clinton 304, Trump 227
