@@ -14,12 +14,16 @@
 #### 2020 Prediction
 ![](./Final/2020_map.png)
 
+Wrong states:
+
 National Popular Vote: Biden 52.36%, Trump 47.64%
 Biden CI: (67,419,363 - 68,165,470)
 Trump CI: (61,524,412 - 61,819,073)
 
 #### 2000 Prediction (Out-of-Sample Validition)
 ![](./Final/2000_map.png)
+
+Wrong states: Arizona (Bush actually won); New Mexico, Wisconsin, Michigan, Pennsylvania, Delaware (Gore won), 
 
 National Popular Vote: Gore 50.70%, Bush 49.30%
 Gore CI: (53,279,361 - 53,913,357)
@@ -28,6 +32,8 @@ Bush CI: (51,988,214 - 52,246,513)
 
 #### 2016 Prediction (In-sample Validition)
 ![](./Final/2016_map.png)
+
+Wrong states: New Hampshire (Clinton actually won) and Pennsylvania (Trump actually won)
 
 National Popular vote: Clinton 52.00%, Trump 48.00%
 Clinton CI: (64,324,188 - 65,067,859)
