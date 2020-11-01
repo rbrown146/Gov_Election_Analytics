@@ -2,6 +2,7 @@
 
 
 ### Week of 10/22: Final Election Prediction
+After weeks of waiting, we are now only a few days away from the election. With secretaries of state predicting record turnout and political pundits calling the election the most important one in their lifetimes, this is no ordinary election. We may not know who will win just yet, but models can offer some insight during this stressful time. I present my election model.
 
 #### Model Formula
 
