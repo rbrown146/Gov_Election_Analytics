@@ -66,7 +66,7 @@ Here are some election statistics from this hypothetical 2000 election outcome:
 
 
 
-In comparison, here are statistics on the [actual results](https://www.270towin.com/2000_Election/)
+In comparison, here are statistics on the [actual results:](https://www.270towin.com/2000_Election/)
 
 **Electoral College Vote:** Gore 266, Bush 271
 
