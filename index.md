@@ -4,11 +4,13 @@
 ### Week of 10/22: Final Election Prediction
 After weeks of waiting, we are now only a few days away from the election. With secretaries of state predicting record turnout and political pundits calling the election the most important one in their lifetimes, this is no ordinary election. We may not know who will win just yet, but models can offer some insight during this stressful time. I present my election model.
 
+#### Model Description
+
+My model is binomial. That means that for a given population (in this case eligible voters in a state), it assigns one of two possible outcomes to each individual (in this case Democrat or Republican) based on a variety of inputs. I chose to input polling data, state demographic characteristics (race, gender, and age), and change in those state demographic characteristics over the past four years. (I chose not to include a variable indicating the change in a state's gender composition over the past four years because this didn't improve results - I figure that gender composition is fairly stable across time.). There is a lot of variation in how voters of each race vote - white voters without college degrees are much more conservative than those who graduated from college. While my model doesn't account for voter educational status, it can look at other changes in demographics that proxy for this. States that have a large increase in Millenials compared to four years prior probably are popular destinations for college educated voters (since our nation's fastest growing industries are increasingly dependent on skilled workers), and a good chunk of voters are likely educated persons who lean to the left. Because voters differ by region, e.g. Hispanics in California are probably more liberal than those in Florida, I interact variables for the change in state demographic characteristics with an indicator variable for region to enable a more accurate prediction for each region. 
+
 #### Model Formula
 
 #### Model Coefficients & Interpretation
-
-#### Model Description
 
 #### Uncertainty (Interval)
 
@@ -61,7 +63,7 @@ National Popular Vote (Two Party Vote): Clinton 51.11%, Trump 48.89%
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/Final)
 
 ### Week of 10/18: Covid
-This election has had many shocks compared with previous elections: protests, a president who doesn't pay much tax, the death of a Supreme Court justice weeks before the elction, and, of course, Covid. How will Covid affect the election? I decided to make a model to find out. But first, here are some maps showing the extent of Covid's spread through the United States:
+This election has had many shocks compared with previous elections: protests, a president who doesn't pay much tax, the death of a Supreme Court justice weeks before the election, and, of course, Covid. How will Covid affect the election? I decided to make a model to find out. But first, here are some maps showing the extent of Covid's spread through the United States:
 
 Between July 1 and October 21 Covid has spread greatly through the USA
 
