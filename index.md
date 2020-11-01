@@ -14,7 +14,7 @@
 #### 2020 Prediction
 ![](./Final/2020_map.png)
 
-Wrong states:
+Wrong states: Oregon probably will go for Biden. I predict that NE-02 will go for Biden, and ME-02 for Trump (not in model). Additionally, I think Iowa will go to Biden, and in a shocker, so will Texas.
 
 National Popular Vote: Biden 52.36%, Trump 47.64%
 Biden CI: (67,419,363 - 68,165,470)
