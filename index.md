@@ -65,6 +65,7 @@ Here are some election statistics from this hypothetical 2000 election outcome:
 **Bush CI:** (51,988,389 - 52,246,215)
 
 
+
 In comparison, here are statistics on the [actual results](https://www.270towin.com/2000_Election/)
 
 **Electoral College Vote:** Gore 266, Bush 271
@@ -95,6 +96,7 @@ Here are some statistics:
 **Trump CI:** (59,564,256 - 59,858,909)
 
 
+
 And here are the [actual results](https://www.270towin.com/2016_Election/)
 
 **Electoral College Vote:** Clinton 227, Trump 304
@@ -105,9 +107,11 @@ Here, too, the model correctly predicts that Clinton wins the popular vote and l
 
 [State results](https://en.wikipedia.org/wiki/2016_United_States_presidential_election) show that Trump won Michigan by 0.23% and Pennsylvania by 0.72% while Clinton won New Hampshire by 0.37% and Minnesota by 1.52%. The model's prediction for Minnesota seems off, but it does a good job predicting the other states.
 
-####
+#### Conclusion
 
-Narrow CI, conservative on Rust Belt
+What are some takeaways from this model? In both the 2000 and 2016 election it correctly predicted the electoral college and popular vote winners, and its 2020 prediction seems mostly feasible. In all three forecasts the model gives a very narrow confidence interval for each candidate's predicted voteshare, which places serious doubt on the model's ability to accurately predict the popular vote count. But percentage-wise, at least, it isn't too far off. The model works fairly well in-sample, but it is much worse at predicting out-of-sample. It could be true, however, that the model is biased towards recent changes in voting in the USA - it was constructed using 2016 data, after all, and it incorrectly gave Wisconsin, Michigan, and Pennsylvania to the Republican candidate in its out-of-sample prediction. If this is the case then that bodes well for Biden come November 3. 
+
+Now that the model's prediction has been made, all that is left to do is wait until Election Day. Soon enough we will be able to test its accuracy. Until then, happy voting!
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/Final)
 
