@@ -23,7 +23,7 @@ Trump CI: (61,524,412 - 61,819,073)
 #### 2000 Prediction (Out-of-Sample Validition)
 ![](./Final/2000_map.png)
 
-Wrong states: Arizona (Bush actually won); New Mexico, Wisconsin, Michigan, Pennsylvania, Delaware (Gore won), 
+Wrong states: Arizona, Florida (Bush actually won); New Mexico, Wisconsin, Michigan, Pennsylvania, Delaware (Gore won), 
 
 National Popular Vote: Gore 50.70%, Bush 49.30%
 Gore CI: (53,279,361 - 53,913,357)
