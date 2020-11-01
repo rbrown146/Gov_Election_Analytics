@@ -31,9 +31,9 @@ National Popular Vote: Gore 50.70%, Bush 49.30%
 Gore CI: (53,279,361 - 53,913,357)
 Bush CI: (51,988,214 - 52,246,513)
 
-Actual results
-Electoral College Vote:
-National Popular Vote (Two Party Vote):
+[Actual results](https://www.270towin.com/2000_Election/)
+Electoral College Vote: Gore 266, Bush 271
+National Popular Vote (Two Party Vote): Gore 50.27%, Bush 49.73%
 
 #### 2016 Prediction (In-sample Validition)
 ![](./Final/2016_map.png)
