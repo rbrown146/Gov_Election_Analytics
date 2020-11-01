@@ -111,7 +111,7 @@ Here, too, the model correctly predicts that Clinton wins the popular vote and l
 
 What are some takeaways from this model? In both the 2000 and 2016 election it correctly predicted the electoral college and popular vote winners, and its 2020 prediction seems mostly feasible. In all three forecasts the model gives a very narrow confidence interval for each candidate's predicted voteshare, which places serious doubt on the model's ability to accurately predict the popular vote count. But percentage-wise, at least, it isn't too far off. The model works fairly well in-sample, but it is much worse at predicting out-of-sample. It could be true, however, that the model is biased towards recent changes in voting in the USA - it was constructed using 2016 data, after all, and it incorrectly gave Wisconsin, Michigan, and Pennsylvania to the Republican candidate in its out-of-sample prediction. If this is the case then that bodes well for Biden come November 3. 
 
-Now that the model's prediction has been made, all that is left to do is wait until Election Day. Soon enough we will be able to test its accuracy. Until then, happy voting!
+Now that the model's prediction has been made, all that is left to do is wait until Election Day. Soon enough we will be able to measure its accuracy. Until then, happy voting!
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/Final)
 
