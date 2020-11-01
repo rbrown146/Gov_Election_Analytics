@@ -28,10 +28,12 @@ What do the coefficients on each of these terms mean? They tell you how much to 
 
 The model defaults to predicting the outcome for a hypothetical Alabama populated only by white males aged 45-65 with no Democratic poll support and no population (paradoxically). For such a state, the model predicts Democratic voter turnout of -2.137, a value that does not correspond to an actual probability since probabilities are between 0 and 1. Interestingly, the model predicts a *decrease* in Democratic support as the share of Millenials (aged 30-45), Asians, and Democratic poll support increases. However, state fixed effects and interaction terms work to counteract this. For example, California has a large state fixed effect of 4.50. DC, however, has a state fixed effect of -8.55. DC has a large Black population, though, and the model predicts that every percentage of a state's population that is Black increases its support for Democrats by 0.056. The regional offset for Black population indicates that on top of that 0.056 support, states in the Northeast have an additional 0.064 boost, meaning that a 1% increase in a Northeastern state's Black population as a share of its total population will cause its Democratic support to increase by 0.12. No state has a negative predicted share of Democratic voter turnout, so these offsets help to counteract the model's intercept of -2.137 and the coefficient of -0.024 on average Democratic poll support.
 
+Now that I've covered the workings of my model, it's time to present its 2020 prediction...
+
 #### 2020 Prediction
 ![](./Final/2020_map.png)
 
-Wrong states: Oregon probably will go for Biden. I predict that NE-02 will go for Biden, and ME-02 for Trump (not in model). Additionally, I think Iowa will go to Biden, and in a shocker, so will Texas.
+This map is interesting, but it's undoubtedly incorrect. Oregon is a very liberal state and most likely will vote for Biden. Besides Oregon, though, this map line ups with the forecasts of pundits who are bullish on a blue wave. My model doesn't account for congressional-district allocation of electoral college votes in Nebraska and Maine, but I personally predict that NE-02 will go for Biden and ME-02 for Trump. Additionally, I think that if Biden wins all of the states on this map plus Oregon then he probably will win Iowa and Texas as well.
 
 Electoral College Vote: Biden 343, Trump 195
 National Popular Vote: Biden 52.36%, Trump 47.64%
