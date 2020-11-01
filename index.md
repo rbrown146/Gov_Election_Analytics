@@ -3,7 +3,11 @@
 
 ### Week of 10/22: Final Election Prediction
 
+![](./final/2020_map.png)
+![](./final/2000_map.png)
+![](./final/2016_map.png)
 
+Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/Final)
 
 ### Week of 10/18: Covid
 This election has had many shocks compared with previous elections: protests, a president who doesn't pay much tax, the death of a Supreme Court justice weeks before the elction, and, of course, Covid. How will Covid affect the election? I decided to make a model to find out. But first, here are some maps showing the extent of Covid's spread through the United States:
