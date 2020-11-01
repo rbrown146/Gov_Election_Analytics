@@ -37,6 +37,8 @@ Gore wins Arizona by 4.60%, Florida by 6.90%, Oregon by 11.33%, and Hawaii by 3.
 Electoral College Vote: Gore 266, Bush 271
 National Popular Vote (Two Party Vote): Gore 50.27%, Bush 49.73%
 
+[It seems](https://en.wikipedia.org/wiki/2000_United_States_presidential_election) that Bush carried Florida by 0.0092%, Arizona by 6.29%, and Georgia by 11.69%. Gore won New Mexico by 0.061%, Michigan by 5.13%, Oregon by 0.44%, and Hawaii by 18.33% 
+
 #### 2016 Prediction (In-sample Validition)
 ![](./Final/2016_map.png)
 
