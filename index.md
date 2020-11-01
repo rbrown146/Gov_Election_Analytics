@@ -35,10 +35,13 @@ Now that I've covered the workings of my model, it's time to present its 2020 pr
 
 This map is interesting, but it's undoubtedly incorrect. Oregon is a very liberal state and most likely will vote for Biden. Besides Oregon, though, this map line ups with the forecasts of pundits who are bullish on a blue wave. My model doesn't account for congressional-district allocation of electoral college votes in Nebraska and Maine, but I personally predict that NE-02 will go for Biden and ME-02 for Trump. Additionally, I think that if Biden wins all of the states on this map plus Oregon then he probably will win Iowa and Texas as well.
 
-Electoral College Vote: Biden 343, Trump 195
-National Popular Vote: Biden 52.36%, Trump 47.64%
-Biden CI: (67,418,974 - 68,163,003)
-Trump CI: (61,523,836 - 61,819,065)
+**Electoral College Vote:** Biden 343, Trump 195
+
+**National Popular Vote:** Biden 52.36%, Trump 47.64%
+
+**Biden CI:** (67,418,974 - 68,163,003)
+
+**Trump CI:** (61,523,836 - 61,819,065)
 
 #### 2000 Prediction (Out-of-Sample Validition)
 ![](./Final/2000_map.png)
