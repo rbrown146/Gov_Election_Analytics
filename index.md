@@ -3,9 +3,9 @@
 
 ### Week of 10/22: Final Election Prediction
 
-![](./final/2020_map.png)
-![](./final/2000_map.png)
-![](./final/2016_map.png)
+![](./Final/2020_map.png)
+![](./Final/2000_map.png)
+![](./Final/2016_map.png)
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/Final)
 
