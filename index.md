@@ -43,9 +43,9 @@ Here are some statistics on my prediction:
 
 **National Popular Vote:** Biden 52.36%, Trump 47.64%
 
-**Biden CI:** (67,418,974 - 68,163,003)
+**Biden Vote 95% Confidence Interval:** (67,418,974 - 68,163,003)
 
-**Trump CI:** (61,523,836 - 61,819,065)
+**Trump Vote 95% Confidence Interval:** (61,523,836 - 61,819,065)
 
 Next, let's see how the model performs out of sample:
 
@@ -60,9 +60,9 @@ Here are some election statistics from this hypothetical 2000 election outcome:
 
 **National Popular Vote:** Gore 50.70%, Bush 49.30%
 
-**Gore CI:** (53,278,740 - 53,913,560)
+**Gore Vote 95% Confidence Interval:** (53,278,740 - 53,913,560)
 
-**Bush CI:** (51,988,389 - 52,246,215)
+**Bush Vote 95% Confidence Interval:** (51,988,389 - 52,246,215)
 
 
 
@@ -91,9 +91,9 @@ Here are some statistics:
 
 **National Popular Vote:** Clinton 52.00%, Trump 48.00%
 
-**Clinton CI:** (64,324,375 - 65,068,005)
+**Clinton Vote 95% Confidence Interval:**(64,324,375 - 65,068,005)
 
-**Trump CI:** (59,564,256 - 59,858,909)
+**Trump Vote 95% Confidence Interval:** (59,564,256 - 59,858,909)
 
 
 
