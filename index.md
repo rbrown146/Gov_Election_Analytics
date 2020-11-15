@@ -5,6 +5,7 @@
 ![](./Final/2020_map.png)
 ![](./final_reflect/act_map.png)
 ![](./final_reflect/win_margin.png)
+* Note that bars are colored by actual state winner, not direction of error (GOP/Dem)
 ![](./final_reflect/win_range.png)
 ![](./final_reflect/biden.png)
 ![](./final_reflect/trump.png)
