@@ -1,5 +1,13 @@
 ## Predicting the 2020 Election (Rick Brown)
 
+### POST ELECTION REFLECTION
+
+![](./Final/2020_map.png)
+![](./final_reflect/act_map.png)
+![](./final_reflect/win_margin.png)
+![](./final_reflect/win_range.png)
+![](./final_reflect/biden.png)
+![](./final_reflect/trump.png)
 
 ### Week of 10/22: Final Election Prediction
 After weeks of waiting, we are now only a few days away from the election. With secretaries of state predicting record turnout and political pundits calling the election the most important one in their lifetimes, this is no ordinary election. We may not know who will win just yet, but models can offer some insight during this stressful time. I present my election model.
