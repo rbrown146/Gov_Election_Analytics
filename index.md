@@ -1,14 +1,31 @@
 ## Predicting the 2020 Election (Rick Brown)
 
 ### POST ELECTION REFLECTION
+After nearly an entire week of anxiety and uncertainty, the 2020 election has wrapped up. Joe Biden will be the 46th President of the United States. My model predicted this outcome, but it wasn't entirely accurate. What did it do right, and what went wrong? I evaluate my model below.
 
+#### Model Recap
+
+#### Accuracy Measure
+If you recall from my previous post, my model predicted that we would see this map on election night:
 ![](./Final/2020_map.png)
+
+In actuality, this is the final map of the 2020 election:
 ![](./final_reflect/act_map.png)
+
+At the time I unveiled my model I commented that I thought a red Oregon was highly unlikely. Indeed, Oregon voted for Biden. However, I was bullish on Biden and predicted that Biden might also win Texas and Iowa in addition to Oregon and the states on my map. In reality, Biden won neither Texas nor Iowa, and he also lost Florida and North Carolina. The final outcome of the election was Biden 306, Trump 232. I predicted that it would be Biden 343, Trump 195. I was "only" off by 37 electoral votes!
+
+
 ![](./final_reflect/win_margin.png)
 * Note that bars are colored by color of party of actual state winner, not direction of error (e.g GOP, Dem)
 ![](./final_reflect/win_range.png)
 ![](./final_reflect/biden.png)
 ![](./final_reflect/trump.png)
+
+#### Hypotheses for inaccuracies in estimates/locations (look at components of model that could be off, not predictive)
+
+#### Proposed quantitative tests to test hypotheses for why model was off
+
+#### Description of how I might change model if I were to do it again
 
 ### Week of 10/22: Final Election Prediction
 After weeks of waiting, we are now only a few days away from the election. With secretaries of state predicting record turnout and political pundits calling the election the most important one in their lifetimes, this is no ordinary election. We may not know who will win just yet, but models can offer some insight during this stressful time. I present my election model.
