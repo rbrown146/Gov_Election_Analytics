@@ -14,9 +14,11 @@ In actuality, this is the final map of the 2020 election:
 
 At the time I unveiled my model I commented that I thought a red Oregon was highly unlikely. Indeed, Oregon voted for Biden. However, I was bullish on Biden and predicted that Biden might also win Texas and Iowa in addition to Oregon and the states on my map. In reality, Biden won neither Texas nor Iowa, and he also lost Florida and North Carolina. The final outcome of the election was Biden 306, Trump 232. I predicted that it would be Biden 343, Trump 195. I was "only" off by 37 electoral votes!
 
+But where did my model go wrong? Pictured below is a bar graph of the size of my model's prediction error for each state:
 
 ![](./final_reflect/win_margin.png)
 * Note that bars are colored by color of party of actual state winner, not direction of error (e.g GOP, Dem)
+
 ![](./final_reflect/win_range.png)
 ![](./final_reflect/biden.png)
 ![](./final_reflect/trump.png)
