@@ -23,6 +23,8 @@ If you recall, I was missing polling data for eight states/territories and had t
 
 South Dakota (1), Rhode Island (2), Illinois (3), North Dakota (9), West Virginia (21), Nebraska (30), DC (41), Wyoming (49)
 
+Whereas predictions for DC and Wyoming were close to the mark, those for South Dakota, Rhode Island, and Illinois were embarrasingly inaccurate. North Dakota's prediction also faired poorly. There doesn't appear to be a pattern to how these states fared - results were wrong in both populated Illinois and rural South Dakota and right in both liberal DC and conservative Wyoming. Four of these states were in the Midwestern region (SD, IL, ND, NE), one in the Core South region (WV), two in Northeast region (RI, DC), and one in the Rocky Mountain region (WY). Overall, predictions for states in the Midwestern region were terrible, but it is unclear why prediction accuracy for the two states in the Northeastern region was so far apart (Rhode Island was off by 35.08% while DC was only off by 2.79%). Looking at historical trends, it appears that voteshare for Democrats and Republicans is fairly stable across years in DC. Perhaps that explains why the model was so good at predicting polling data for DC.
+
 ![](./final_reflect/win_range.png)
 ![](./final_reflect/biden.png)
 ![](./final_reflect/trump.png)
