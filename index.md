@@ -19,6 +19,10 @@ But where did my model go wrong? Pictured below is a bar graph of the size of my
 ![](./final_reflect/win_margin.png)
 * Note that bars are colored by color of party of actual state winner, not direction of error (e.g GOP, Dem)
 
+If you recall, I was missing polling data for eight states/territories and had to estimate polling data based on values in nearby states. This resulted in predictions that were both highly inaccurate and fairly good. The states/territories for which I estimated polling data are listed below, followed by the rank of their predicton error relative to other states (with 1 being the most inaccurate prediction and 51 the most accurate):
+
+South Dakota (1), Rhode Island (2), Illinois (3), North Dakota (9), West Virginia (21), Nebraska (30), DC (41), Wyoming (49)
+
 ![](./final_reflect/win_range.png)
 ![](./final_reflect/biden.png)
 ![](./final_reflect/trump.png)
