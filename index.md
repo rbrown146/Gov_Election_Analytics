@@ -27,13 +27,19 @@ Whereas predictions for DC and Wyoming were close to the mark, those for South D
 
 What about results for states that *did* have polling data? The median error seems to be in the 5-7 percentage point range. While this accuracy isn't great, it is good enough to correctly predict the vote outcome in most states. The errors seem to be smaller in Democratic-voting states (e.g. MA, MI, VA) than in Republican-voting ones. Why is this? In general most polls seem to have underestimated the share of Trump voters in the country. (Trump won the popular vote by about 3.6 points when the polls had him losing by 10 points.) But I think that the regions I placed each state into had the largest effect on outcomes. States were grouped by the following regions:
 
-Core South - AL, MS, TN, AR, LA, OK, KY, WV
-Sun Belt - FL, GA, TX, NC, SC, AZ, NM, NV
-Northeast - VA, MD, DE, NJ, NY, CT, RI, VT, ME, DC, MA
-Midwest Swing - NH, PA, OH, MI, WI, MN, IA
-Midwest Stable - IN, KS, NE, SD, ND, IL, MO
-Rocky Mountain - CO, MT, ID, WY, AK, UT
-West Coast - HI, WA, OR, CA
+**Core South** - AL, MS, TN, AR, LA, OK, KY, WV
+
+**Sun Belt** - FL, GA, TX, NC, SC, AZ, NM, NV
+
+**Northeast** - VA, MD, DE, NJ, NY, CT, RI, VT, ME, DC, MA
+
+**Midwest Swing** - NH, PA, OH, MI, WI, MN, IA
+
+**Midwest Stable** - IN, KS, NE, SD, ND, IL, MO
+
+**Rocky Mountain** - CO, MT, ID, WY, AK, UT
+
+**West Coast** - HI, WA, OR, CA
 
 I placed New Hampshire with swing states in the Midwest because I thought this was a better group for it than the solidly blue states of the Northeast. However, results in New Hampshire were off by 10.36 percentage points, the most of any state in the Midwest Swing group. The next least-accurate state prediction in that group was for Iowa, which was only off by 3.92 points. This leads me to believe that New Hampshire does not, in fact, have many similarities with other states in the Midwest Swing group. New Hampshire should have been placed with the Northeastern states.
 
