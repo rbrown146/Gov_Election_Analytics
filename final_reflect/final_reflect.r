@@ -349,6 +349,23 @@ ggplot(new_data, aes(x = biden, y = reorder(state, margin))) +
   labs(title = "Votes for Biden",
        subtitle = "Actual Outcome (Dot) and Model 95% CI (Bars)")
 
+# Region Error
+region_table <- new_data %>%
+  select(miss, state_list) %>%
+  left_join(poll_pvstate_df %>% select(state, region) %>% unique(), by=c("state_list" = "state")) %>%
+  filter(!state_list %in% c("South Dakota", "Rhode Island", "Illinois", "North Dakota", "West Virginia", "Nebraska", "District of Columbia", "Wyoming")) %>%
+  group_by(region) %>%
+  summarise(miss = sum(miss)/n())
+
+# Bar plot of size of win margin region prediction errors
+ggplot(region_table, aes(reorder(region, miss))) + 
+  geom_bar(aes(weight=miss)) + geom_text(aes(label=paste0(round(100*miss,2), "%"), y=miss, hjust=-0.25)) + 
+  coord_flip() + 
+  guides(fill=FALSE) + 
+  scale_y_continuous(breaks = seq(0, 0.12, 1), limits = c(0, 0.12)) +
+  labs(y="Percentage Points Off", x = "Region", title = "Win Margin Prediction Error by Region", caption="Excluding States with No Polling Data (SD, RI, IL, ND, WV, NE, DC, WY)") 
+
+
 # Actual Map of Outcomes
 plot_usmap(data = new_data, regions = "states", values = "act_win") +
   scale_fill_manual(values = c("blue", "red"), name = "Actual State PV Winner 2020") +
