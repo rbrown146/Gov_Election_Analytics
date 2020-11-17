@@ -41,6 +41,8 @@ What about results for states that *did* have polling data? The median error see
 
 **West Coast** - HI, WA, OR, CA
 
+![](./final_reflect/region_error.png)
+
 I placed New Hampshire with swing states in the Midwest because I thought this was a better group for it than the solidly blue states of the Northeast. However, results in New Hampshire were off by 10.36 percentage points, the most of any state in the Midwest Swing group. The next least-accurate state prediction in that group was for Iowa, which was only off by 3.92 points. This leads me to believe that New Hampshire does not, in fact, have many similarities with other states in the Midwest Swing group. New Hampshire should have been placed with the Northeastern states.
 
 Additionally, the Sun Belt states were a mix of states from around the country and may not have had much in common with each other. Results for these states tended to be off by more than 
@@ -54,6 +56,8 @@ Additionally, the Sun Belt states were a mix of states from around the country a
 #### Proposed quantitative tests to test hypotheses for why model was off
 
 #### Description of how I might change model if I were to do it again
+
+Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/final_reflect)
 
 ### Week of 10/22: Final Election Prediction
 After weeks of waiting, we are now only a few days away from the election. With secretaries of state predicting record turnout and political pundits calling the election the most important one in their lifetimes, this is no ordinary election. We may not know who will win just yet, but models can offer some insight during this stressful time. I present my election model.
