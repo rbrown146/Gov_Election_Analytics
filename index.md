@@ -47,7 +47,12 @@ I placed New Hampshire with swing states in the Midwest because I thought this w
 
 The Rocky Mountain states had the least accurate predictions. These were a mix of states that may not have had much in common with each other. For example, Utah's Mormons are a unique voting bloc that are concentrated in one state, Colorado is the lone state in the group that is reliably Democratic, and Alaska is unique in that it has a large Asian population that votes predominately for Republicans. Perhaps placing Montana, Wyoming, and Idaho with the Midwest Stable states, Colorado with the West Coast states, and Utah and Alaska in their own unique regions would have yielded better results.
 
+Looking specifically at the direction of the prediction error in each state (e.g. more Republican or Democratic than reality) indicates that the model tends to overestimate the degree of partisanship in each state:
+
 ![](./final_reflect/win_range.png)
+
+On average, Republican states were predicted to be more Republican than in actuality, and Democratic states were predicted to be more Democratic than actuality.
+
 ![](./final_reflect/biden.png)
 ![](./final_reflect/trump.png)
 
