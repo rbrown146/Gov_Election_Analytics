@@ -45,7 +45,7 @@ What about results for states that *did* have polling data? The median error see
 
 I placed New Hampshire with swing states in the Midwest because I thought this was a better group for it than the solidly blue states of the Northeast. However, results in New Hampshire were off by 10.36 percentage points, the most of any state in the Midwest Swing group. The next least-accurate state prediction in that group was for Iowa, which was only off by 3.92 points. This leads me to believe that New Hampshire does not, in fact, have many similarities with other states in the Midwest Swing group. New Hampshire should have been placed with the Northeastern states.
 
-Additionally, the Sun Belt states were a mix of states from around the country and may not have had much in common with each other. Results for these states tended to be off by more than 
+The Rocky Mountain states had the least accurate predictions. These were a mix of states that may not have had much in common with each other. For example, Utah's Mormons are a unique voting bloc that are concentrated in one state, Colorado is the lone state in the group that is reliably Democratic, and Alaska is unique in that it has a large Asian population that votes predominately for Republicans. Perhaps placing Montana, Wyoming, and Idaho with the Midwest Stable states, Colorado with the West Coast states, and Utah and Alaska in their own unique regions would have yielded better results.
 
 ![](./final_reflect/win_range.png)
 ![](./final_reflect/biden.png)
