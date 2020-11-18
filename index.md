@@ -66,9 +66,9 @@ The model did a poor job estimating votes for each candidate. The final vote out
 ![](./final_reflect/biden.png)
 ![](./final_reflect/trump.png)
 
-#### Hypotheses for inaccuracies in estimates/locations (look at components of model that could be off, not predictive)
+#### Testing hypotheses for why model was off
 
-#### Proposed quantitative tests to test hypotheses for why model was off
+In an ideal scenario, I'd be able to test my hypotheses for why the model was off by running a controlled experiment, changing a few variables at a time, and examining the outcome. Obviously one cannot rerun the 2020 election without causing chaos and/or undermining democracy. However, we can simulate the election using the model. If the model yielded inaccurate results in Florida due in part to a Hispanic shift to the right, we could test for this by running the model again and underweighting the number of Hispanics in Florida and overweighting the number of whites (a more conservative voting block).
 
 #### Description of how I might change model if I were to do it again
 
