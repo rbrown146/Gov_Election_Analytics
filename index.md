@@ -51,7 +51,11 @@ Looking specifically at the direction of the prediction error in each state (e.g
 
 ![](./final_reflect/win_range.png)
 
-On average, Republican states were predicted to be more Republican than in actuality, and Democratic states were predicted to be more Democratic than actuality.
+On average, Republican states were predicted to be more Republican than in actuality, and Democratic states were predicted to be more Democratic than actuality. Perhaps poor and limited polling explains why results were off in some states. Ohio had a polling error of essentially zero, and Minnesota was only off by 1.72%; both states were well polled this cycle. However, even if polling errors effected results, there are still a number of large errors that are unexplained. For example, results were off by 19.91% in Nevada and 8.9% in Florida, two well-polled states. While the polls may have been off in both states, they were not off by nearly as much as the size of the model's prediction errors for those states. Something about the model itself contributed to the errors.
+
+
+
+16.04% in Alabama, 10.38% in Mississippi, 9.53% in Indiana, and 9.17% in Washington.
 
 ![](./final_reflect/biden.png)
 ![](./final_reflect/trump.png)
