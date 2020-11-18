@@ -57,6 +57,10 @@ One election observation that the media has emphasized is that a greater share o
 
 Another election observation floating around is that Black turnout increased in several states, but the Black share of the electorate actually decreased due to an even greater share in non-Black voters turning out to vote. Since non-Blacks tend to vote more conservatively than Blacks, if Black turnout as a share of the electorate were especially low this election then we would expect the model to overpredict Democratic support in states with large Black populations. Errors do seem to be large in several of the ten states with the largest Black populations (informally estimated via [Wikipedia](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_African-American_population)): 16.04% off in Alabama, 10.38% in Mississippi, 7.74% in South Carolina, 7.69% in North Carolina, and 7.22% in Maryland. However, in all but the Carolinas, the model overestimated the share of *Republican* support, not Democratic support. And several of the 5 states with the highest share of Black residents had especially low errors: DC (2.79%), Louisiana (0.38%), Georgia (1.14%). This suggests that Black turnout isn't what is affecting the model's prediction in most states, although it could explain why North Carolina was incorrectly predicted.
 
+Why was Oregon off by so much? Likely this was due to its region. Of the four states in the West Coast region, Oregon has the highest share of white voters. Very little polling data was available for Oregon this cycle, so polling data was likely off. That, together with a large white electorate, undoubtedly caused the model to overpredict the amount of Republican support in the state. This seems to be another instance in which region and demographic data swayed the model's prediction.
+
+
+
 ![](./final_reflect/biden.png)
 ![](./final_reflect/trump.png)
 
