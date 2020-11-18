@@ -68,7 +68,11 @@ The model did a poor job estimating votes for each candidate. The final vote out
 
 #### Testing hypotheses for why model was off
 
-In an ideal scenario, I'd be able to test my hypotheses for why the model was off by running a controlled experiment, changing a few variables at a time, and examining the outcome. Obviously one cannot rerun the 2020 election without causing chaos and/or undermining democracy. However, we can simulate the election using the model. If the model yielded inaccurate results in Florida due in part to a Hispanic shift to the right, we could test for this by running the model again and underweighting the number of Hispanics in Florida and overweighting the number of whites (a more conservative voting block).
+In an ideal scenario, I'd be able to test my hypotheses for why the model was off by running a controlled experiment, changing a few variables at a time, and examining the outcome. Obviously one cannot rerun the 2020 election without causing chaos and/or undermining democracy. However, we can simulate the election using the model. If the model yielded inaccurate results in Florida due in part to a Hispanic shift to the right, we could approximate for this by running the model again and underweighting the number of Hispanics in Florida and overweighting the number of whites (a more conservative voting block). Of course, one would need to know exactly how much to adjust the weights. This could be approximated by looking at the shift in Miami-Dade county compared to 2016 (a heavily-Hispanic county home to many Cuban-Americans). If one could somehow obtain voting data for different races then this could be used to see whether there was a Hispanic shift to the right. 
+
+To test whether especially low Black turnout as a share of total turnout led to inaccurate predictions, one could underweight the number of Blacks in a state and overweight the number of whites. Weights could be adjusted via trial-and-error, and if decreasing the number of Blacks in a state seemed to lead to more accurate predictions then that would support this hypothesis. Here, too, having voting data for different races could be used to find correlations between the model's predictive accuracy and the share of the electorate that was Black.
+
+
 
 #### Description of how I might change model if I were to do it again
 
