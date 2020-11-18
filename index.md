@@ -166,7 +166,7 @@ Here are some statistics:
 
 And here are the [actual results](https://www.270towin.com/2016_Election/)
 
-**Electoral College Vote:** Clinton 227, Trump 304
+**Electoral College Vote:** Clinton 232, Trump 306
 
 **National Popular Vote (Two Party Vote):** Clinton 51.11%, Trump 48.89%
 
