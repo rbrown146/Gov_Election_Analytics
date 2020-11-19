@@ -78,9 +78,15 @@ All three turnout trends mentioned previously concern voter demographics. When c
 
 Finally, if state results were biased based on which region each state was placed into then we could rerun the model placing different states into different regions. The accuracy of results should be determined for the 2020 election and previous elections. One could also eliminate regions entirely and see how that affects results.
 
-#### Changes I'd Make If I Could Redo Things
+#### Conclusion: Changes I'd Make If I Could Redo Things
 
+Overall I am pleased with the performance of my model. Yes, errors were unacceptably high in states with no polling data, and the average error size was roughly in the 7 point range. But given the amount of time I had to create the model, the data that was available, and the level of my coding skills, I think I did well. That being said, if I were to go back and change things there are a few modifications I'd definitely make. 
 
+The first thing I'd do would be to remove regions from my model. I think I too narrowly defined regions, which caused some states to have results biased in line with other states in that region (e.g. Colorado's prediction was more conservative than the actual result because the other states in its region were very conservative. Instead I would lump states into three classifications: swing states, former swing states (states like Colorado, Missouri, and Virginia that aren't quite as partisan as the rest of the nation but also aren't competitive), and uncompetitive states. Hopefully this would fix the prediction error in Oregon.
+
+Next I'd change my model to an ensemble model. I'd predict election outcomes using two models - one based on polls and another based on demographic information. Several errors I observed in my model's predictions seemed to be based on demographics (e.g. Cubans in Florida), so I would give more weight to the polling component of my ensemble. Hopefully this would mean that shocks like a larger-than-average turnout of young voters wouldn't alter my model's predictions much.
+
+Finally, I'd look for later polling data and use that to make predictions. This would alleviate the need to estimate polling data for states (which resulted in my three worst state predictions).
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/final_reflect)
 
