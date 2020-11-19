@@ -76,6 +76,8 @@ If younger voters turned out in greater numbers this cycle then this could be ap
 
 All three turnout trends mentioned previously concern voter demographics. When creating the model I didn't have the most up-to-date demographic data - my information came from 2018, whereas the model used demographic data from the year of previous elections to predict the outcomes for those elections. If out-of-date data explains some of the predictive errors then this could be tested by gathering more recent demographic data and feeding it into the model.
 
+Finally, if state results were biased based on which region each state was placed into then we could rerun the model placing different states into different regions. The accuracy of results should be determined for the 2020 election and previous elections. One could also eliminate regions entirely and see how that affects results.
+
 #### Description of how I might change model if I were to do it again
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/final_reflect)
