@@ -4,6 +4,9 @@
 After nearly an entire week of anxiety and uncertainty, the 2020 election has wrapped up. Joe Biden will be the 46th President of the United States. My model predicted this outcome, but it wasn't entirely accurate. What did it do right, and what went wrong? I evaluate my model below.
 
 #### Model Recap
+To make predictions I use a binomial model that takes in polling and demographic data from each state and returns estimated votes for each major party candidate (Biden or Trump) in that state. Specifically, I input the racial and age breakdown of each state's population, and I also include changes in each of these demographic variables over the previous four years. I interact region with the variables that measure demographic changes over the prior four years. I assume that states will vote similarly to other states that are close by or have had similar demographic changes and voting histories, and I create seven regions using this reasoning (the regions are listed later in this post).
+
+The model is trained using using presidential election results beginning 1992 with the exception of results from the 2000 election that were used to test the model's accuracy. For states with missing polling data, this data was estimated using polling data from nearby states. Finally, for a given candidate's initial voteshare prediction in a particular state, I generate 10,000 different voting scenarios. For each of this simulations, the candidate's predicted voteshare is randomly selected from a normal distribution with mean and standard deviation given by the model's initial prediction. I take the average of the results to produce my final estimate of the candidate's voteshare in that state.
 
 #### Accuracy Measure
 If you recall from my previous post, my model predicted that we would see this map on election night:
