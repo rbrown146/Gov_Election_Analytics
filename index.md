@@ -84,9 +84,11 @@ Overall I am pleased with the performance of my model. Yes, errors were unaccept
 
 The first thing I'd do would be to remove regions from my model. I think I too narrowly defined regions, which caused some states to have results biased in line with other states in that region (e.g. Colorado's prediction was more conservative than the actual result because the other states in its region were very conservative. Instead I would lump states into three classifications: swing states, former swing states (states like Colorado, Missouri, and Virginia that aren't quite as partisan as the rest of the nation but also aren't competitive), and uncompetitive states. Hopefully this would fix the prediction error in Oregon.
 
-Next I'd change my model to an ensemble model. I'd predict election outcomes using two models - one based on polls and another based on demographic information. Several errors I observed in my model's predictions seemed to be based on demographics (e.g. Cubans in Florida), so I would give more weight to the polling component of my ensemble. Hopefully this would mean that shocks like a larger-than-average turnout of young voters wouldn't alter my model's predictions much.
+Next I'd change my model to an ensemble model. I'd predict election outcomes using two models - one based on polls and another based on demographic information. Several errors I observed in my model's predictions seemed to be based on demographics (e.g. Cubans in Florida, Blacks in North Carolina), so I would give more weight to the polling component of my ensemble. Hopefully this would mean that shocks like a larger-than-average turnout of young voters wouldn't alter my model's predictions much.
 
-Finally, I'd look for later polling data and use that to make predictions. This would alleviate the need to estimate polling data for states (which resulted in my three worst state predictions).
+Finally, I'd look for later polling data and use that to make predictions. This would alleviate the need to estimate polling data for states (which resulted in my three worst state predictions) and would likely give more precise estimates in other states as well.
+
+So there it is. After many weeks of anticipation, the 2020 election is wrapped up, and so is my analysis of it. Thanks for reading!
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/final_reflect)
 
