@@ -74,6 +74,8 @@ To test whether especially low Black turnout as a share of total turnout led to 
 
 If younger voters turned out in greater numbers this cycle then this could be approximated by overweighting the share of younger voters in a state and underweighting all other age groups. Here, as in other cases, it would help to have data detailing the ages of voters this election cycle and in previous ones. We could compare the predictive accuracy of the model in states with younger voter turnout in line with historical averages to the accuracy for states with higher young voter turnout than in previous election cycles.
 
+All three turnout trends mentioned previously concern voter demographics. When creating the model I didn't have the most up-to-date demographic data - my information came from 2018, whereas the model used demographic data from the year of previous elections to predict the outcomes for those elections. If out-of-date data explains some of the predictive errors then this could be tested by gathering more recent demographic data and feeding it into the model.
+
 #### Description of how I might change model if I were to do it again
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/final_reflect)
