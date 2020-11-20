@@ -10,6 +10,10 @@ Now that my analysis of my election model has concluded, it's time to analyze br
 ![](./election_outcomes/2016.png)
 ![](./election_outcomes/2020.png)
 
+With so many counties in the country (many of them small), it might be difficult to pinpoint changes in specific counties. However, several things pop out to me. The first is that counties in the upper-Midwest region have become redder over time. Iowa and Wisconsin in particular have become more conservative. This doesn't seem surprising given both state's recent propensity for Republican governors and senators. Additionally, several counties elsewhere have turned red, particularly in Arkansas and Maine. Meanwhile, California has become bluer. But what stands out most of all is that the majority of counties seem to have voted the same way over all six elections. What's going on?
+
+
+
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/election_outcomes)
 
 ### POST ELECTION REFLECTION
