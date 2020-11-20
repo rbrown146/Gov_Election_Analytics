@@ -15,7 +15,7 @@ With so many counties in the country (many of them small), it might be difficult
 ____
 
 ![](./election_outcomes/pivot_2000.png)
-![](./election_outcomes/pivot_2016.png)
+![](./election_outcomes/pivot_16.png)
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/election_outcomes)
 
