@@ -1,7 +1,7 @@
 ## Predicting the 2020 Election (Rick Brown)
 
 ### Week of 11/22: Election Trends
-
+Now that my analysis of my election model has concluded, it's time to analyze broader historical trends in politics. What better way to begin than to show maps with county-level election results from the past 6 elections?
 
 ![](./election_outcomes/2000.png)
 ![](./election_outcomes/2004.png)
