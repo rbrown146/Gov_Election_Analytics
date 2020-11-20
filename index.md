@@ -1,5 +1,17 @@
 ## Predicting the 2020 Election (Rick Brown)
 
+### Week of 11/22: Election Trends
+
+
+![](./election_outcomes/2000.png)
+![](./election_outcomes/2004.png)
+![](./election_outcomes/2008.png)
+![](./election_outcomes/2012.png)
+![](./election_outcomes/2016.png)
+![](./election_outcomes/2020.png)
+
+Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/election_outcomes)
+
 ### POST ELECTION REFLECTION
 After nearly an entire week of anxiety and uncertainty, the 2020 election has wrapped up. Joe Biden will be the 46th President of the United States. My model predicted this outcome, but it wasn't entirely accurate. What did it do right, and what went wrong? I evaluate my model below.
 
