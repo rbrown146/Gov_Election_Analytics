@@ -18,9 +18,13 @@ Additionally, contemporary politics are defined by urban vs. rural battles. Dens
 
 ![](./election_outcomes/pivot_2000.png)
 
-There's a lot of blue in the above map, but it's mostly in rural areas. As predicted, these counties swung to the Republican party by the time of the 2020 election. Many of these blue-to-red counties are located in either the South or the upper Midwest. Meanwhile, red counties are much fewer, but they tend to represent urban centers. Notice the red-to-blue flip of counties representing the suburbs of Chicago, Denver, and DC as well as the cities of San Antonio, Dallas, Omaha, NE, Reno, NV, Jacksonville, FL, and Birmingham, AL. Additionally, the state of California as a whole seems to have become more Democratic.
+There's a lot of blue in the above map, but it's mostly in rural areas. As predicted, these counties swung to the Republican party by the time of the 2020 election. Many of these blue-to-red counties are located in either the South or the upper Midwest. Meanwhile, red counties are much fewer, but they tend to represent urban centers. Notice the red-to-blue flip of counties representing the suburbs of Atlanta, Chicago, Denver, and DC as well as the cities of San Antonio, Dallas, Omaha, NE, Reno, NV, Jacksonville, FL, and Birmingham, AL. Additionally, the state of California as a whole seems to have become more Democratic.
+
+There aren't as many changes between 2016 and 2020, but some appear nevertheless:
 
 ![](./election_outcomes/pivot_16.png)
+
+There are fewer blue-to-red counties that flipped, but those that did appear to be mostly in rural Texas and Mississippi. Meanwhile, many urban centers flipped from red to blue, among them the suburbs of Austin, TX and Kansas City and cities of Phoenix, AZ and Ft. Worth, TX. Within my homestate of Kansas, the counties containing the cities of Manhattan (my hometown!) and Topeka also flipped.
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/election_outcomes)
 
