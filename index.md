@@ -17,6 +17,9 @@ According to [Professor David Hopkins of Boston College,](https://hollis.harvard
 Additionally, contemporary politics are defined by urban vs. rural battles. Densely populated areas usually vote for Democrats while their hinterlands vote for Republicans. This trend is more easily visible when one looks at counties that pivoted from one party to another over the course of several elections. Below I plot counties that pivoted in 2020 relative to 2000 and 2016:
 
 ![](./election_outcomes/pivot_2000.png)
+
+There's a lot of blue in the above map, but it's mostly in rural areas. As predicted, these counties swung to the Republican party by the time of the 2020 election. Many of these blue-to-red counties are located in either the South or the upper Midwest. Meanwhile, red counties are much fewer, but they tend to represent urban centers. Notice the red-to-blue flip of counties representing the suburbs of Chicago, Denver, and DC as well as the cities of San Antonio, Dallas, Omaha, NE, Reno, NV, Jacksonville, FL, and Birmingham, AL. Additionally, the state of California as a whole seems to have become more Democratic.
+
 ![](./election_outcomes/pivot_16.png)
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/election_outcomes)
