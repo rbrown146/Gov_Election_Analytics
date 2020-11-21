@@ -12,6 +12,9 @@ Now that my analysis of my election model has concluded, it's time to analyze br
 
 With so many counties in the country (many of them small), it might be difficult to pinpoint changes in specific counties. However, several things pop out to me. The first is that counties in the upper-Midwest region have become redder over time. Iowa and Wisconsin in particular have become more conservative. This doesn't seem surprising given both state's recent propensity for Republican governors and senators. Additionally, several counties elsewhere have turned red, particularly in Arkansas, Maine, and upstate New York. Meanwhile, California has become bluer. But what stands out most of all is that the majority of counties seem to have voted the same way over all six elections. What's going on?
 
+According to [Professor David Hopkins of Boston College,](https://hollis.harvard.edu/primo-explore/fulldisplay?docid=TN_cdi_askewsholts_vlebooks_9781108129183&context=PC&vid=HVD2&search_scope=everything&tab=everything&lang=en_US) the outcome of the 2020 election is merely a continuation of previously occuring trends. Over time politics in America have increasing become polarized; whereas in the days of Richard Nixon nearly every state was competitive, nowadays only a few swing states are that way. Those swing states are predominately located in the Midwest while states elsewhere typical vote for the same political party no matter the candidate running. 
+
+defined by urban vs. rural
 ____
 
 ![](./election_outcomes/pivot_2000.png)
