@@ -1,7 +1,7 @@
 ## Predicting the 2020 Election (Rick Brown)
 
 ### Week of 11/22: Election Trends
-Now that my analysis of my election model has concluded, it's time to analyze broader historical trends in politics. What better way to begin than to show maps with county-level election results from the past 6 elections?
+Now that my analysis of my election model has concluded, it's time to analyze broader historical trends in politics. Was this election an anomaly due to Trump and Covid? What better way to begin than to show maps with county-level election results from the past 6 elections?
 
 ![](./election_outcomes/2000.png)
 ![](./election_outcomes/2004.png)
@@ -26,7 +26,7 @@ There aren't as many changes between 2016 and 2020, but some appear nevertheless
 
 There are fewer blue-to-red counties that flipped, but those that did appear to be mostly in rural Texas and Mississippi. Meanwhile, many urban centers flipped from red to blue, among them the suburbs of Austin, TX and Kansas City and cities of Phoenix, AZ and Ft. Worth, TX. Within my homestate of Kansas, the counties containing the cities of Manhattan (my hometown!) and Topeka also flipped.
 
-Seeing the above maps, it seems likely that this election was indeed a battle of rural vs urban. Suburban counties flipped from red-to-blue while a few rural counties flipped the other way. (The rural counties in Texas were located in heavily Hispanic areas, supporting the theory that a Hispanic shift to the right cost Biden Texas and similarly Hispanic states.) And yes, America seems as polarized as we've been hearing from the news - few counties flip between elections.
+Seeing the above maps, it seems likely that this election was indeed a battle of rural vs urban, and its outcome was not an anomaly from previous elections. Suburban counties flipped from red-to-blue while a few rural counties flipped the other way. (The rural counties in Texas were located in heavily Hispanic areas, supporting the theory that a Hispanic shift to the right cost Biden Texas and similarly Hispanic states.) And yes, America seems as polarized as we've been hearing from the news - few counties flip between elections.
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/election_outcomes)
 
