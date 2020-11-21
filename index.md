@@ -14,8 +14,7 @@ With so many counties in the country (many of them small), it might be difficult
 
 According to [Professor David Hopkins of Boston College,](https://hollis.harvard.edu/primo-explore/fulldisplay?docid=TN_cdi_askewsholts_vlebooks_9781108129183&context=PC&vid=HVD2&search_scope=everything&tab=everything&lang=en_US) the outcome of the 2020 election is merely a continuation of previously occuring trends. Over time politics in America have increasing become polarized; whereas in the days of Richard Nixon nearly every state was competitive, nowadays only a few swing states are that way. Those swing states are predominately located in the Midwest while states elsewhere typical vote for the same political party no matter the candidate running. 
 
-defined by urban vs. rural
-____
+Additionally, contemporary politics are defined by urban vs. rural battles. Densely populated areas usually vote for Democrats while their hinterlands vote for Republicans. This trend is more easily visible when one looks at counties that pivoted from one party to another over the course of several elections. Below I plot counties that pivoted in 2020 relative to 2000 and 2016:
 
 ![](./election_outcomes/pivot_2000.png)
 ![](./election_outcomes/pivot_16.png)
