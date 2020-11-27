@@ -14,6 +14,8 @@ Using the contents of each candidate's campaign speeches from 2019-2020, I searc
 **Trump's most spoken 2-5 word phrases on the economy:**
 ![](./speeches/trump_economy.png)
 
+Trump clearly views the economy as one of his strong points. "Greatest_economy" was the most commonly occuring economic phrase in Trump's speeches with 82 occurrences. The next most common phrase was "economy_history", which I assume was used in conjunction with the first phrase to say "greatest economy in history". ("economy_history" appears 66 times while the third most common phrase, "greatest_economy_history", appears 54 times.) All of the top 20 phrases are positive in tone, and many of them, such as "built_greatest_economy" (30 occurrences), seem to suggest that Trump is taking credit for the state of the economy.
+
 **Biden's most spoken 2-5 word phrases on the economy:**
 ![](./speeches/biden_economy.png)
 
