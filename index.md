@@ -5,6 +5,11 @@ It's relatively uncommon for incumbent presidents to be defeated when running fo
 
 According to [Professor Lynn Vavreck,](https://hollis.harvard.edu/primo-explore/fulldisplay?docid=TN_cdi_askewsholts_vlebooks_9781400830480&context=PC&vid=HVD2&search_scope=everything&tab=everything&lang=en_US)  
 
+![](./speeches/trump_economy.png)
+![](./speeches/biden_economy.png)
+![](./speeches/trump_virus.png)
+![](./speeches/biden_virus.png)
+
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/speeches)
 
 ### Week of 11/22: Election Trends
