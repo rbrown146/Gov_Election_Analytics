@@ -19,6 +19,8 @@ Trump clearly views the economy as one of his strong points. "Greatest_economy" 
 **Biden's most spoken 2-5 word phrases on the economy:**
 ![](./speeches/biden_economy.png)
 
+Unlike Trump, Biden is more pessimistic about the state of the economy. His most uttered economic phrase is "economic_crisis", which he states 65 times. His second most uttered phrase is "economic_growth" (37 occurences), and taken out of context it is hard to say if this phrase was used to discuss current or future economic growth. Other top-ten phrases such as "economy_back" and "economic_recovery" suggest that Biden is emphasizing that the economy is not "great" like Trump implies. Interestingly, Biden's third most frequently used economic phrase is "economic_justice" (28 occurences). I imagine that he is calling for greater economic justice across the country for people of different races, but this could also refer to economic justice across geographic areas and high/low-skill jobs. No matter how Biden used the term though, I imagine that this phrase was used to criticize the current state of the economy. (I assume this based on the content of Biden speeches that I have heard.) Based on these findings, it seems like Biden followed the playbook of previous campaigns and tried to weaken voter's associations of Trump and the previously strong economy.
+
 **Trump's most spoken 2-5 word phrases on the coronavirus:**
 ![](./speeches/trump_virus.png)
 
