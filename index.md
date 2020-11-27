@@ -5,6 +5,7 @@ It's relatively uncommon for incumbent presidents to be defeated when running fo
 
 According to [Professor Lynn Vavreck,](https://hollis.harvard.edu/primo-explore/fulldisplay?docid=TN_cdi_askewsholts_vlebooks_9781400830480&context=PC&vid=HVD2&search_scope=everything&tab=everything&lang=en_US)  
 
+Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/speeches)
 
 ### Week of 11/22: Election Trends
 Now that my analysis of my election model has concluded, it's time to analyze broader historical trends in politics. Was this election an anomaly due to Trump and Covid? What better way to begin than to show maps with county-level election results from the past 6 elections?
