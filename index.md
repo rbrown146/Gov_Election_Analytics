@@ -5,9 +5,16 @@ It's relatively uncommon for incumbent presidents to be defeated when running fo
 
 According to [Professor Lynn Vavreck,](https://hollis.harvard.edu/primo-explore/fulldisplay?docid=TN_cdi_askewsholts_vlebooks_9781400830480&context=PC&vid=HVD2&search_scope=everything&tab=everything&lang=en_US)  
 
+**Trump's most spoken 2-5 word phrases on the economy:**
 ![](./speeches/trump_economy.png)
+
+**Biden's most spoken 2-5 word phrases on the economy:**
 ![](./speeches/biden_economy.png)
+
+**Trump's most spoken 2-5 word phrases on the coronavirus:**
 ![](./speeches/trump_virus.png)
+
+**Biden's most spoken 2-5 word phrases on the coronavirus:**
 ![](./speeches/biden_virus.png)
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/speeches)
