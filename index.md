@@ -1,5 +1,11 @@
 ## Predicting the 2020 Election (Rick Brown)
 
+### Week of 11/29: Election Messaging
+It's relatively uncommon for incumbent presidents to be defeated when running for reelection. Trump is the first one-term president of the 21st century, and given the chaos in the world around us it doesn't seem *that* surprising that he bucked the presidential reelection trend. At the same time, Trump had a strong showing. He earned the second largest number of votes of any presidential candidate in history. This being the case, it seems doubtful that Biden won due to the public being overwhelmingly appalled at his handling of national affairs. So was Biden's victory a result of pure luck or a well-organized strategy?
+
+According to [Professor Lynn Vavreck,](https://hollis.harvard.edu/primo-explore/fulldisplay?docid=TN_cdi_askewsholts_vlebooks_9781400830480&context=PC&vid=HVD2&search_scope=everything&tab=everything&lang=en_US)  
+
+
 ### Week of 11/22: Election Trends
 Now that my analysis of my election model has concluded, it's time to analyze broader historical trends in politics. Was this election an anomaly due to Trump and Covid? What better way to begin than to show maps with county-level election results from the past 6 elections?
 
