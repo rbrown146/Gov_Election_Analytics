@@ -24,6 +24,8 @@ Unlike Trump, Biden is more pessimistic about the state of the economy. His most
 **Trump's most spoken 2-5 word phrases on the coronavirus:**
 ![](./speeches/trump_virus.png)
 
+By far, Trump's most uttered coronavirus phrase is "china_virus", which he stated 77 times. Not only is this phrase derogatory, it seems to blame another country for a problem experienced globally. Trump's next 3 most uttered coronavirus phrases are "covid_covid" (66 occurrences), "covid_covid_covid" (42 occurrences), and "covid_covid_covid_covid" (22 occurrences). Undoubtedly these figures are inflated due to overcounting since "covid_covid" appears twice in the phrase "covid_covid_covid_covid". It's not clear how Trump used these phrases since the algorithm I use removes filler words, but in a number of speeches Trump did utter "covid, covid, covid covid" while expressing his contempt for the virus. For that reason, and since it seems hard to believe that any factually meaningful statement could be created from the phrase "covid_covid_covid_covid" (even if stopwords were added back), I take these statements as evidence of Trump's frustration with the coronavirus epidemic rather than calls to action. Together Trump's top coronavirus statements imply that whenever he discussed the virus it usually was to distance himself from it and its deadly effects. Rounding out Trump's top ten statements are calls to fight the virus ("defeat_virus", "kill_virus", and "vaccine_kill_virus") as well as a continuation of his repetitive covid calls ("covid_covid_covid_covid_covid").  
+
 **Biden's most spoken 2-5 word phrases on the coronavirus:**
 ![](./speeches/biden_virus.png)
 
