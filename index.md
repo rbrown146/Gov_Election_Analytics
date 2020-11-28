@@ -29,6 +29,8 @@ By far, Trump's most uttered coronavirus phrase is "china_virus", which he state
 **Biden's most spoken 2-5 word phrases on the coronavirus:**
 ![](./speeches/biden_virus.png)
 
+covid_crisis (23), virus_control / beat_virus / covid-19_pandemic (16), covid_covid (7)
+
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/speeches)
 
 ### Week of 11/22: Election Trends
