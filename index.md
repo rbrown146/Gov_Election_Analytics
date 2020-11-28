@@ -29,7 +29,7 @@ By far, Trump's most uttered coronavirus phrase is "china_virus", which he state
 **Biden's most spoken 2-5 word phrases on the coronavirus:**
 ![](./speeches/biden_virus.png)
 
-covid_crisis (23), virus_control / beat_virus / covid-19_pandemic (16), covid_covid (7)
+Biden doesn't discuss the coronavirus as frequently as Trump does, but whenever Biden does, he paints it as a crisis. In fact, his most-used phrase is "covid_crisis", which he says 23 times. Other top-5 phrases include "virus_control", "beat_virus", and "covid-19_pandemic", each of which appears 16 times. This suggests to me that Biden's coronavirus messaging is mostly about the seriousness of the epidemic and how he plans to fight it. While Trump also discussed fighting the virus, he seemed to do so less frequently than he complained about the virus. Biden also utters Trump's second-favorite phrase, "covid_covid", but he only does so 7 times, making it his 25th most spoken coronavirus phrase. However, Biden's top 50 covid phrases do not include any longer variations like "covid_covid_covid". Since stopwords are excluded from this analysis it is difficult to tell just how Biden used the phrase "covid_covid", but I imagine Biden used it to indicate the virus's seriousness. (I say this based on the few Biden speeches that I've heard.) 
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/speeches)
 
