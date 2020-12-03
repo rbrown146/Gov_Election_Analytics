@@ -1,5 +1,17 @@
 ## Predicting the 2020 Election (Rick Brown)
 
+### NARRATIVES
+
+* Looking at change in voteshare doesn't capture counties with same voteshare but higher turnout. Higher turnout in a populated county could produce more Biden votes than a gain in voteshare in a very sparesly populated conservative county
+
+* I exclude counties corresponding to small metros since they're likely a hybrid of suburbs and rural areas
+
+* Some of the areas included in suburbs are rural (counties are included if they are part of a MSA)
+
+https://www.cdc.gov/nchs/data_access/urban_rural.htm
+
+Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/narratives)
+
 ### Week of 11/29: Election Messaging
 It's relatively uncommon for incumbent presidents to be defeated when running for reelection. Trump is the first one-term president of the 21st century, and given the chaos in the world around us it doesn't seem *that* surprising that he bucked the presidential reelection trend. At the same time, Trump had a strong showing. He earned the second largest number of votes of any presidential candidate in history. This being the case, it seems doubtful that Biden won due to the public being overwhelmingly appalled at Trump's handling of national affairs. So was Biden's victory a result of pure luck or a well-organized strategy?
 
