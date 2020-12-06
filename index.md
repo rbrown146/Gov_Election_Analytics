@@ -17,13 +17,21 @@ Before analyzing the shift in voteshare in each type of county, it helps to look
 
 ![](./narratives/2pv_2020.png)
 
+
+
+![](./narratives/vote_16_20_single.png)
+
+![](./narratives/vote_16_20_multi.png)
+
+
+
 ![](./narratives/shift_16_20.png)
 
 ![](./narratives/vote_voteshift_16.png)
 
-![](./narratives/vote_16_20_multi.png)
 
-![](./narratives/vote_16_20_single.png)
+
+
 
 ![](./narratives/vote_shift.png)
 
