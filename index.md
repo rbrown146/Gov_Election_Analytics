@@ -18,6 +18,9 @@ Before analyzing the shift in voteshare in each type of county, it helps to look
 ![](./narratives/2pv_2020.png)
 
 
+![](./narratives/vote_shift.png)
+
+
 
 ![](./narratives/vote_16_20_single.png)
 
@@ -32,16 +35,12 @@ Before analyzing the shift in voteshare in each type of county, it helps to look
 
 
 
-
-![](./narratives/vote_shift.png)
-
-
-
-![](./narratives/natl_gain.png)
-
 ![](./narratives/gov_reg.png)
 
 ![](./narratives/stat_table.png)
+
+
+![](./narratives/natl_gain.png)
 
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/narratives)
