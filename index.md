@@ -2,6 +2,10 @@
 
 ### NARRATIVES
 
+By now we've all heard resons why Biden won the 2020 election. Some credit his victory to higher Democratic turnout, others to Black turnout specifically. But perhaps the most common narrative is that Biden won due to an increase in support from the suburbs. Is there any truth to this theory?
+
+As I've discussed previously, politics in America do seem to be getting more polarized. [Professor David Hopkins of Boston College](https://hollis.harvard.edu/primo-explore/fulldisplay?docid=TN_cdi_askewsholts_vlebooks_9781108129183&context=PC&vid=HVD2&search_scope=everything&tab=everything&lang=en_US) has noted that there is an urban-rural divide in how America votes. The suburbs, however, are a blend of urban and rural. We might therefore hypothesize that these regions are more competitive than others. If so, future campaigns should focus most of their resources on winning over these crucial voting regions. If not, campaigns should play to their bases and win by turning out more of their electorate than the opposing side. Clearly there is a lot at stake to knowing how the suburbs vote.
+
 ![](./narratives/studied_counties.png)
 
 ![](./narratives/shift_16_20.png)
