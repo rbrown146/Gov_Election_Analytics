@@ -12,6 +12,11 @@ In this blog post I'll examine how the two-party voteshare changed between 2016 
 
 ![](./narratives/studied_counties.png)
 
+Before analyzing the shift in voteshare in each type of county, it helps to look at the overall voteshare from both 2016 and 2020. These results are plotted below.
+![](./narratives/2pv_2016.png)
+
+![](./narratives/2pv_2020.png)
+
 ![](./narratives/shift_16_20.png)
 
 ![](./narratives/vote_voteshift_16.png)
@@ -22,9 +27,7 @@ In this blog post I'll examine how the two-party voteshare changed between 2016 
 
 ![](./narratives/vote_shift.png)
 
-![](./narratives/2pv_2020.png)
 
-![](./narratives/2pv_2016.png)
 
 ![](./narratives/natl_gain.png)
 
