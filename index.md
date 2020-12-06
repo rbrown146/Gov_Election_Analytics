@@ -13,9 +13,12 @@ In this blog post I'll examine how the two-party voteshare changed between 2016 
 ![](./narratives/studied_counties.png)
 
 Before analyzing the shift in voteshare in each type of county, it helps to look at the overall voteshare from both 2016 and 2020. These results are plotted below.
+
 ![](./narratives/2pv_2016.png)
 
 ![](./narratives/2pv_2020.png)
+
+As one might expect, rural areas were overwhelmingly Republican and urban areas Democratic in both elections. Suburban areas fell somewhere in between but voted for the Republican candidate each time. Compared to 2016, suburban and urban areas swung to the left by roughly 1 point and rural areas to the right by 1 point in 2020. 
 
 
 ![](./narratives/vote_shift.png)
