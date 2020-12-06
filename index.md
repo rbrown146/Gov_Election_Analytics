@@ -6,7 +6,9 @@ By now we've all heard resons why Biden won the 2020 election. Some credit his v
 
 As I've discussed previously, politics in America do seem to be getting more polarized. [Professor David Hopkins of Boston College](https://hollis.harvard.edu/primo-explore/fulldisplay?docid=TN_cdi_askewsholts_vlebooks_9781108129183&context=PC&vid=HVD2&search_scope=everything&tab=everything&lang=en_US) has noted that there is an urban-rural divide in how America votes. The suburbs, however, are a blend of urban and rural. We might therefore hypothesize that these regions are more competitive than others. If so, future campaigns should focus most of their resources on winning over these crucial voting regions. If not, campaigns should play to their bases and win by turning out more of their electorate than the opposing side. Clearly there is a lot at stake to knowing how the suburbs vote.
 
-If Biden did win in part due to an increase in support in the suburubs, how would we know? One way to tell would be to examine the two-party voteshare for different types of counties in 2020 vs 2016. If there is a larger pro-Biden shift in the suburbs than in urban and rural counties then that lends some credibility to the theory. Of course detecting such a shift would not enable us to definitively pin suburban vote-shift as the cause of Biden's victory - perhaps suburban counties have other properties, such as a more diverse electorate, that caused them to change how they voted this cycle. If these same voters exist in other types of counties, albeit in smaller numbers, then it would not be the suburbs per se that propelled Biden to victory. Additionally, looking at change in voteshare doesn't account for counties that had the same voteshare but higher turnout. Higher turnout in a populated county could produce more Biden votes than a gain in voteshare in a very sparesly populated conservative county.
+If Biden did win in part due to an increase in support in the suburubs, how would we know? One way to tell would be to examine the two-party voteshare for different types of counties in 2020 vs 2016. If there is a larger pro-Biden shift in the suburbs than in urban and rural counties then that lends some credibility to the theory. Of course detecting such a shift would not enable us to definitively pin suburban vote-shift as the cause of Biden's victory - perhaps suburban counties have other properties, such as a more diverse electorate, that caused them to change how they voted this cycle. If these same voters exist in other types of counties, albeit in smaller numbers, then it would not be the suburbs per se that propelled Biden to victory. Additionally, looking at change in voteshare doesn't account for counties that had the same voteshare but higher turnout. Higher turnout in a populated county could produce more Biden votes than a gain in voteshare in a very sparesly populated conservative county. What detecting a Democratic shift in the suburbs *would* do is provide us with evidence that is consistent with the theory, even if we cannot prove the theory itself.
+
+In this blog post I'll examine how the two-party voteshare changed between 2016 and 2020 for urban, rural, and suburban counties. To do this, I use county classification data from the [CDC](https://www.cdc.gov/nchs/data_access/urban_rural.htm)
 
 ![](./narratives/studied_counties.png)
 
@@ -36,7 +38,6 @@ If Biden did win in part due to an increase in support in the suburubs, how woul
 
 * Some of the areas included in suburbs are rural (counties are included if they are part of a MSA)
 
-https://www.cdc.gov/nchs/data_access/urban_rural.htm
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/narratives)
 
