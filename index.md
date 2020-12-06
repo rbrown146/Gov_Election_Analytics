@@ -2,6 +2,30 @@
 
 ### NARRATIVES
 
+![](./narratives/studied_counties.png)
+
+![](./narratives/shift_16_20.png)
+
+![](./narratives/vote_voteshift_16.png)
+
+![](./narratives/vote_16_20_multi.png)
+
+![](./narratives/vote_16_20_single.png)
+
+![](./narratives/vote_shift.png)
+
+![](./narratives/2pv_2020.png)
+
+![](./narratives/2pv_2016.png)
+
+![](./narratives/natl_gain.png)
+
+![](./narratives/gov_reg.png)
+
+![](./narratives/stat_table.png)
+
+
+
 * Looking at change in voteshare doesn't capture counties with same voteshare but higher turnout. Higher turnout in a populated county could produce more Biden votes than a gain in voteshare in a very sparesly populated conservative county
 
 * I exclude counties corresponding to small metros since they're likely a hybrid of suburbs and rural areas
