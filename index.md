@@ -20,7 +20,6 @@ Before analyzing the shift in voteshare in each type of county, it helps to look
 
 As one might expect, rural areas were overwhelmingly Republican and urban areas Democratic in both elections. Suburban areas fell somewhere in between but voted for the Republican candidate each time. Compared to 2016, suburban and urban areas swung to the left by roughly 1 point and rural areas to the right by 1 point in 2020. The map below indicates the scope of the vote shift across the country: 
 
-
 ![](./narratives/vote_shift.png)
 
 The above map is interesting, but due to irregularly sized counties, results don't pop out the way we'd like. Counties on the eastern part of the country tend to be small, so it is hard to tell just how much the voteshare in each county shifted. Additionally, it's hard to distinguish urban counties from rural and suburban ones. For these reasons, I plot the Democratic vote for each country as a scatterplot, with 2020 results on the y-axis and 2016 results on the x-axis:
@@ -36,6 +35,8 @@ It's surprising that a fair number of rural counties trended more Democratic thi
 The above graphs suggest that Biden did gain in the suburbs, especially compared to rural areas. But he also gained in urban areas, and it's unclear how this vote shift translates into overall vote count. Additional, to put this vote shift into context, it would be helpful to compare counties' vote shift in 2020 to their vote shift in 2016. I do exactly this below:
 
 ![](./narratives/shift_16_20.png)
+
+The vast majority of rural and suburban counties appear to have shifted towards the GOP in 2016, whereas urban ones shifted towards the Democrats. Here, as in the graphs above, it's clear that most suburban counties reversed course in 2020 and drifted towards the Democrats. However, their conservative shift in 2016 appears to have been greater than their liberal shift in 2020. If suburban counties' vote shift towards the Democrats was the main reason for Biden's victory then we would expect him to perform better than Clinton but worse than Obama in 2012 (since suburban counties overall appear to have moved rightward since 2012). This is indeed the case in terms of electoral votes. (I look at Wikipedia for informal [2012](https://en.wikipedia.org/wiki/2012_United_States_presidential_election), [2016](https://en.wikipedia.org/wiki/2016_United_States_presidential_election), and [2020](https://en.wikipedia.org/wiki/2020_United_States_presidential_election) results.)
 
 ![](./narratives/vote_voteshift_16.png)
 
