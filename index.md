@@ -27,7 +27,7 @@ The above map is interesting, but due to irregularly sized counties, results don
 
 ![](./narratives/vote_16_20_single.png)
 
-From this graph it's visible that most counties voted fairly similarly in 2020 as they did in 2016
+From this graph it's visible that most counties voted fairly similarly in 2020 as they did in 2016. However, most datapoints appear to fall either above or below the 45-degree line in the plot, which indicates that results weren't completely identical across elections. Specifically, suburban counties seem to be trending more Democratic in 2020 and rural ones more Republican. This change seems to be consistent for each county type regardless of how the counties voted in 2016, suggesting that there was widespread rather than concentrated change in how people voted in 2020. The plot below more clearly separates results by county type:
 
 ![](./narratives/vote_16_20_multi.png)
 
