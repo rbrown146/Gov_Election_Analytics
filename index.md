@@ -12,13 +12,13 @@ In this blog post I'll examine how the two-party voteshare changed between 2016 
 
 ![](./narratives/studied_counties.png)
 
-Before analyzing the shift in voteshare in each type of county, it helps to look at the overall voteshare from both 2016 and 2020. These results are plotted below.
+Before analyzing the shift in voteshare in each type of county, it helps to look at the overall voteshare from both 2016 and 2020. I agglomerate voteshare for each county type and plot results below.
 
 ![](./narratives/2pv_2016.png)
 
 ![](./narratives/2pv_2020.png)
 
-As one might expect, rural areas were overwhelmingly Republican and urban areas Democratic in both elections. Suburban areas fell somewhere in between but voted for the Republican candidate each time. Compared to 2016, suburban and urban areas swung to the left by roughly 1 point and rural areas to the right by 1 point in 2020. The map below indicates the scope of the vote shift across the country: 
+As one might expect, rural areas were overwhelmingly Republican and urban areas Democratic in both elections. Suburban areas fell somewhere in between but mostly voted for the Republican candidate. Compared to 2016, suburban and urban areas swung to the left by roughly 1 point and rural areas to the right by 1 point in 2020. The map below indicates the scope of the vote shift across the country: 
 
 ![](./narratives/vote_shift.png)
 
@@ -37,6 +37,8 @@ The above graphs suggest that Biden did gain in the suburbs, especially compared
 ![](./narratives/shift_16_20.png)
 
 The vast majority of rural and suburban counties appear to have shifted towards the GOP in 2016, whereas urban ones shifted towards the Democrats. Here, as in the graphs above, it's clear that most suburban counties reversed course in 2020 and drifted towards the Democrats. However, their conservative shift in 2016 appears to have been greater than their liberal shift in 2020. If suburban counties' vote shift towards the Democrats was the main reason for Biden's victory then we would expect him to perform better than Clinton but worse than Obama in 2012 (since suburban counties overall appear to have moved rightward since 2012). This is indeed the case in terms of electoral votes. (I look at Wikipedia for informal [2012](https://en.wikipedia.org/wiki/2012_United_States_presidential_election), [2016](https://en.wikipedia.org/wiki/2016_United_States_presidential_election), and [2020](https://en.wikipedia.org/wiki/2020_United_States_presidential_election) results.)
+
+Another way of visualizing changes in county voting behavior from 2016 to 2020 is to plot the Democratic 2020 voteshare versus the 2016-2020 Democratic vote shift. This shows whether Biden was able to win over more suburban voters than Clinton in 2016 even if each county as a whole did not vote for him:
 
 ![](./narratives/vote_voteshift_16.png)
 
