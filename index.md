@@ -60,6 +60,9 @@ If gaining vote share in suburban counties helped Biden win the election, what f
 
 ![](./narratives/natl_gain.png)
 
+Because Biden lost support in rural areas (compared to Clinton), the sum of his gains in urban and suburban areas exceeds 100%. What this figure suggests is that nearly six times as many voters that Biden flipped came from suburban areas compared to urban areas. This doesn't seem surprising given that the number of suburban counties dwarfs the number of urban counties in the country and the median vote shift in suburban counties appears to be greater than the median vote shift in urban counties. If this is truly the case, than suburban voters are, in fact, a pivotal voting block (and probably will be for years to come).
+
+**Conclusion**
 
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/narratives)
 
