@@ -38,12 +38,13 @@ The above graphs suggest that Biden did gain in the suburbs, especially compared
 
 The vast majority of rural and suburban counties appear to have shifted towards the GOP in 2016, whereas urban ones shifted towards the Democrats. Here, as in the graphs above, it's clear that most suburban counties reversed course in 2020 and drifted towards the Democrats. However, their conservative shift in 2016 appears to have been greater than their liberal shift in 2020. If suburban counties' vote shift towards the Democrats was the main reason for Biden's victory then we would expect him to perform better than Clinton but worse than Obama in 2012 (since suburban counties overall appear to have moved rightward since 2012). This is indeed the case in terms of electoral votes. (I look at Wikipedia for informal [2012](https://en.wikipedia.org/wiki/2012_United_States_presidential_election), [2016](https://en.wikipedia.org/wiki/2016_United_States_presidential_election), and [2020](https://en.wikipedia.org/wiki/2020_United_States_presidential_election) results.)
 
-Another way of visualizing changes in county voting behavior from 2016 to 2020 is to plot the Democratic 2020 voteshare versus the 2016-2020 Democratic vote shift. This shows whether Biden was able to win over more suburban voters than Clinton in 2016 even if each county as a whole did not vote for him:
+Another way of visualizing changes in county voting behavior from 2016 to 2020 is to plot the Democratic 2020 vote share versus the 2016-2020 Democratic vote shift. This shows whether Biden was able to win over more suburban voters than Clinton in 2016 even if each county as a whole did not vote for him:
 
 ![](./narratives/vote_voteshift_16.png)
 
+Here again Biden seems to have performed better among suburbanites than Clinton even in counties that he lost by more than 50 points. He also did better in urban counties and worse in rural counties.
 
-
+These graphs suggest that Biden gained vote share over Clinton in the suburbs, but they don't provide a numerical estimate of the scope of the shift. For that it would be helpful to run a regression. I run two regressions - one examining the shift in Democratic voteshare from 2016 to 2020 and the other examining the shift from 2012 to 2020 – and print results below:
 
 ![](./narratives/gov_reg.png)
 
