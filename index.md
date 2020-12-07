@@ -18,14 +18,16 @@ Before analyzing the shift in voteshare in each type of county, it helps to look
 
 ![](./narratives/2pv_2020.png)
 
-As one might expect, rural areas were overwhelmingly Republican and urban areas Democratic in both elections. Suburban areas fell somewhere in between but voted for the Republican candidate each time. Compared to 2016, suburban and urban areas swung to the left by roughly 1 point and rural areas to the right by 1 point in 2020. 
+As one might expect, rural areas were overwhelmingly Republican and urban areas Democratic in both elections. Suburban areas fell somewhere in between but voted for the Republican candidate each time. Compared to 2016, suburban and urban areas swung to the left by roughly 1 point and rural areas to the right by 1 point in 2020. The map below indicates the scope of the vote shift across the country: 
 
 
 ![](./narratives/vote_shift.png)
 
-
+The above map is interesting, but due to irregularly sized counties, results don't pop out the way we'd like. Counties on the eastern part of the country tend to be small, so it is hard to tell just how much the voteshare in each county shifted. Additionally, it's hard to distinguish urban counties from rural and suburban ones. For these reasons, I plot the Democratic vote for each country as a scatterplot, with 2020 results on the y-axis and 2016 results on the x-axis:
 
 ![](./narratives/vote_16_20_single.png)
+
+From this graph it's visible that most counties voted fairly similarly in 2020 as they did in 2016
 
 ![](./narratives/vote_16_20_multi.png)
 
