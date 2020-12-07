@@ -31,7 +31,9 @@ From this graph it's visible that most counties voted fairly similarly in 2020 a
 
 ![](./narratives/vote_16_20_multi.png)
 
+It's surprising that a fair number of rural counties trended more Democratic this election; a greater share of rural counties seem to have become more Democratic than suburban counties became more Republican. Urban counties are substantially fewer in number, but like suburban counties, they trend more Democratic in 2020 than in 2016.
 
+The above graphs suggest that Biden did gain in the suburbs, especially compared to rural areas. But he also gained in urban areas, and it's unclear how this vote shift translates into overall vote count. Additional, to put this vote shift into context, it would be helpful to compare counties' vote shift in 2020 to their vote shift in 2016. I do exactly this below:
 
 ![](./narratives/shift_16_20.png)
 
