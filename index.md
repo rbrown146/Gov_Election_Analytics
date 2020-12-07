@@ -48,6 +48,8 @@ These graphs suggest that Biden gained vote share over Clinton in the suburbs, b
 
 ![](./narratives/gov_reg.png)
 
+Compared to rural counties, suburban counties shifted leftward by 3.833 points and urban ones by 4.411 points in 2020 versus 2016. Comparing 2020 to 2012, suburban counties shifted leftward by 10.650 points and urban ones by 21.029 relative to rural counties. However, looking at the total shift (rather than relative to rural counties), suburban counties shifted leftwards by 1.778 points and urban counties by 2.356 points in 2020 relative to 2016. Relative to 2012, in 2020 suburban counties shifted *rightward* by 4.49 points and urban counties shifted leftward by 5.889 points. These results imply that suburban counties did trend leftwards in 2020 but urban counties seem to have shifted by a more substantial amount. Suburban counties may have helped Biden, but urban ones helped him more.
+
 ![](./narratives/stat_table.png)
 
 
