@@ -54,7 +54,9 @@ I calculate correlations between various metrics and show results below:
 
 ![](./narratives/stat_table.png)
 
-Looking at all counties, the mean vote shift appears to be rightwards by 0.914 points. This result does not weight for population, though – it only averages the percentage by which each county's vote changed. Weighting for the number of votes cast in each county shows that on average the country shifted leftwards by 2.198 points. The mean vote shift is larger in urban counties than suburban ones (2.356 points versus 1.778 points), but weighting for the number of votes, the mean vote shift is larger in suburban counties (3.785 points verus 1.04 points). The median vote shift is likewise larger for suburban counties than urban ones.
+Looking at all counties, the mean vote shift appears to be rightwards by 0.914 points. This result does not weight for population, though – it only averages the percentage by which each county's vote changed. Weighting for the number of votes cast in each county shows that on average the country shifted leftwards by 2.198 points. The mean vote shift is larger in urban counties than suburban ones (2.356 points versus 1.778 points), but weighting for the number of votes, the mean vote shift is larger in suburban counties (3.785 points verus 1.04 points). The median vote shift is likewise larger for suburban counties than urban ones. Flipping voters in suburban counties appear to have had an outsized role in helping Biden win the election.
+
+If gaining vote share in suburban counties helped Biden win the election, what fraction of total flipped voters were suburbanites? To answer this question, I multiply the 2016-2020 shift in Democratic vote share for each county (as a fraction of the two-party vote) by the total number of votes cast in that county in 2020 for the two major parties. This produces the number of voters flipped by Biden in each county. I then sum up the values for all counties and calculate the proportion of flipped voters coming from each type of county. Finally, I plot my results below.
 
 ![](./narratives/natl_gain.png)
 
