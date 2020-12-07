@@ -48,10 +48,13 @@ These graphs suggest that Biden gained vote share over Clinton in the suburbs, b
 
 ![](./narratives/gov_reg.png)
 
-Compared to rural counties, suburban counties shifted leftward by 3.833 points and urban ones by 4.411 points in 2020 versus 2016. Comparing 2020 to 2012, suburban counties shifted leftward by 10.650 points and urban ones by 21.029 relative to rural counties. However, looking at the total shift (rather than relative to rural counties), suburban counties shifted leftwards by 1.778 points and urban counties by 2.356 points in 2020 relative to 2016. Relative to 2012, in 2020 suburban counties shifted *rightward* by 4.49 points and urban counties shifted leftward by 5.889 points. These results imply that suburban counties did trend leftwards in 2020 but urban counties seem to have shifted by a more substantial amount. Suburban counties may have helped Biden, but urban ones helped him more.
+Compared to rural counties, suburban counties shifted leftward by 3.833 points and urban ones by 4.411 points in 2020 versus 2016. Comparing 2020 to 2012, suburban counties shifted leftward by 10.650 points and urban ones by 21.029 relative to rural counties. However, looking at the total shift (rather than relative to rural counties), suburban counties shifted leftwards by 1.778 points and urban counties by 2.356 points in 2020 relative to 2016. Relative to 2012, in 2020 suburban counties shifted *rightward* by 4.49 points and urban counties shifted leftward by 5.889 points. These results imply that suburban counties did trend leftwards in 2020 but urban counties seem to have shifted by a more substantial amount. Winning over voters in suburban counties may have helped Biden, but he seems to have flipped urban voters even more. Or is there more to the picture than that?
+
+I calculate correlations between various metrics and show results below:
 
 ![](./narratives/stat_table.png)
 
+Looking at all counties, the mean vote shift appears to be rightwards by 0.914 points. This result does not weight for population, though – it only averages the percentage by which each county's vote changed. Weighting for the number of votes cast in each county shows that on average the country shifted leftwards by 2.198 points. The mean vote shift is larger in urban counties than suburban ones (2.356 points versus 1.778 points), but weighting for the number of votes, the mean vote shift is larger in suburban counties (3.785 points verus 1.04 points). The median vote shift is likewise larger for suburban counties than urban ones.
 
 ![](./narratives/natl_gain.png)
 
