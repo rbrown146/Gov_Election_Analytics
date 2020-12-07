@@ -64,6 +64,12 @@ Because Biden lost support in rural areas (compared to Clinton), the sum of his 
 
 **Conclusion**
 
+There does seem to have been a leftward shift in the suburbs this presidential election. Urban areas also saw such a shift, but not by as great an amount (a few observations skew the mean amount of vote shift, though). However, the suburbs overall seem more conservative than they were in 2012.
+
+Does this mean that Biden won due to increased strength in the suburbs? Well, there isn't definitive evidence of that. There could be other factors at play, and a number of issues exist in the way this blog post analyzed vote shift. For one, I didn't examine whether turnout increased in each county. This election saw extremely high turnout for a modern-day election, and if most of the additional turnout came from urban areas then we might conclude that Biden won due to additional support in cities rather than by flipping votes in the suburbs. Additionally, the definition of urban, suburban, and rural areas is fuzzy. Leaving out several counties probably biased results as well. But the findings of this blog post suggest that it attributing Biden's victory to flipping suburban votes is not an unreasonable assertion.
+
+This concludes my series of blog posts on the 2020 election. Thanks for reading – it has been an exciting semester and election season!
+
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/narratives)
 
 ### Week of 11/29: Election Messaging
