@@ -110,6 +110,10 @@ So, did Biden follow the underdog strategy? He did seem to downplay the strength
 Liked my findings? Find my code [here](https://github.com/rbrown146/Gov_Election_Analytics/tree/gh-pages/speeches)
 
 ### Week of 11/22: Election Trends
+
+**UPDATE** It has come to my attention that election data for some counties was incorrectly coded. For example, Jackson County, MO (home of Kansas City) voted for Democratic candidates in every election since 2000, yet the maps below show GOP candidates carrying the county in most elections since 2000. Please disregard commentary on this county.
+
+
 Now that my analysis of my election model has concluded, it's time to analyze broader historical trends in politics. Was this election an anomaly due to Trump and Covid? What better way to begin than to show maps with county-level election results from the past 6 elections?
 
 ![](./election_outcomes/2000.png)
